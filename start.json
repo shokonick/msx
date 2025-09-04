@@ -1,6 +1,6 @@
 {    
     "name": "Radio Daniel",
     "version": "1.0.0",
-    "parameter": "menu:https://shokonick.github.io/msx/test.json",
+    "parameter": "content:https://shokonick.github.io/msx/test.json",
     "welcome": "none"
 }
