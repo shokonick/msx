@@ -3,9 +3,4 @@
     "version": "1.0.0",
     "parameter": "content:https://shokonick.github.io/msx/test.json",
     "welcome": "none"
-        "launcher": {
-        "parameter": "link:https://msx.benzac.de/?start=menu:request:interaction:init@{PREFIX}{SERVER}/interaction&leave=1",
-        "image": "https://shokonick.github.io/msx/שידור הניסיון.jpg",
-        "color": "#57f745"
-    }
 }
