@@ -16,6 +16,10 @@
          "playerLabel": "Audio 1",
          "image": "https://shokonick.github.io/msx/שידור הניסיון.jpg",
          "action": "audio:http://stream.zeno.fm/5ffyfuy10f9uv.mp3"
+      },
+      {
+         "title": "Test TV",
+         "action": "link:https://catcast.tv/player/49814"   
       }
    ]
 }
