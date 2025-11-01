@@ -19,7 +19,7 @@
       },
       {
          "title": "Test TV",
-         "action": "menu:request:interaction:link@https://catcast.tv/player/49814"   
+         "action": "link@https://catcast.tv/player/49814"   
       }
    ]
 }
