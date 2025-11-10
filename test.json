@@ -21,7 +21,7 @@
       },
       {
          "title": "Test TV",
-         "action": "link:http://moeitv.ru/player.php?channel=shoko"   
+         "action": "link:http://moeitv.ru/player_hls.php?channel=shoko"   
       }
    ]
 }
