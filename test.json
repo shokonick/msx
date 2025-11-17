@@ -25,7 +25,7 @@
       },
        {
          "title": "streams",
-         "action": "link:http://msx.benzac.de/?secure=1&type=reference&icon=video-library&alias=streams&start=content%3Ajson%3AeyJuYW1lIjoiTTNVIExhdW5jaGVyIiwidmVyc2lvbiI6IjEuMC4wIiwiYmFja2dyb3VuZCI6bnVsbCwicmVmZXJlbmNlIjoidXNlcjpodHRwOi8vbXN4LmJlbnphYy5kZS9zZXJ2aWNlcy9tM3UucGhwP3R5cGU9dmlkZW8mbW9kZT1leHRlbmRlZCZ1cmw9Y29kZSUzQWM1eilsanklM0ElMjZzd3ElM0FGJTI1JTIzJTJCZDklNDAlNUR-JTJDOW5ZTC0zSUclMjUzJ3MtKWRnajNkWCUyNDFFRSklNUImaGVhZGxpbmU9c3RyZWFtcyJ9"   
+         "action": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=http://m3u4u.com/m3u/69wkngkz7javp7z5nq8g"   
       }
    ]
 }
