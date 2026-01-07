@@ -24,9 +24,9 @@
          "title": "Test TV",
          "action": "link:http://moeitv.ru/player_hls.php?channel=shoko"   
       },
-            {
-         "title": "Test 2",
-         "action": "link:https://global-news-stream-53d54f42.base44.app/"   
+                  {
+         "title": "webchni",
+         "action": "link:https://whiplash.cc/testing/"   
       },
        {
          "title": "streams",
