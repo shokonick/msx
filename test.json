@@ -25,6 +25,7 @@
          "action": "link:http://moeitv.ru/player_hls.php?channel=shoko"   
       },
       {
+         "image": "https://webchnl.com/assets/img/channelicons/testing.png",
          "title": "webchni",
          "action": "link:https://whiplash.cc/testing/"   
       },
