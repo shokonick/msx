@@ -24,7 +24,7 @@
       {
          "image": "https://shokonick.github.io/msx/channelIcon.png",
          "title": "Owncast Directory",
-         "action": "link:owncast.json"   
+         "action": "link:https://shokonick.github.io/msx/owncast.json"   
       },
       {
          "image": "https://webchnl.com/assets/img/channelicons/testing.png",
