@@ -1,0 +1,381 @@
+{
+   "name": "Owncast Directory",
+   "type": "list",
+   "extension": "{ico:msx-white:event} {now:date:dd.mm.yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
+   "headline": "Owncast Directory",
+   "version": "1.3.1",
+   "background": "https://shokonick.github.io/msx/background%20(2).jpg",
+   "logo": "https://shokonick.github.io/msx/channelIcon.png",
+   "logoSize": "large",
+   "preload": "next",
+   "overlay": {
+      "items": [
+         {
+            "type": "space",
+            "layout": "7,0,4,6",
+            "offset": "0.9,-1,0.2,1.67",
+            "color": "#353535"
+         },
+         {
+            "id": "image",
+            "type": "space",
+            "layout": "8,0,4,3",
+            "image": ""
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "8,3,4,3",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,4,2",
+      "area": "0,0,8,6",
+      "wrapperColor": "msx-glass",
+      "imageWidth": 2,
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
+   "items": [
+      {
+         "title": "Owncast TV",
+         "titleFooter": "An example stream about Owncast",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "An example stream where you can learn more about Owncast, as well as other projects we want to share.",
+               "image": "https://watch.owncast.online/thumbnail.jpg"
+            }
+         },
+         "image": "https://watch.owncast.online/logo",
+         "action": "video:https://watch.owncast.online/hls/0/stream.m3u8"
+      },
+      {
+         "title": "The Indie Beat Television",
+         "titleFooter": "indie music videos and animation",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "A consent driven live stream of indie music videos and animation from artists across the Fediverse",
+               "image": "https://tv.theindiebeat.fm/thumbnail.jpg"
+            }
+         },
+         "image": "https://tv.theindiebeat.fm/logo",
+         "action": "video:https://tv.theindiebeat.fm/hls/0/stream.m3u8"
+      },
+      {
+         "title": "RetroStrange TV",
+         "titleFooter": "24/7 streaming TV channel based on public domain media",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "RetroStrange TV is a 24/7 streaming station featuring a curated selection of movies, serials, classic TV, and short films. It's totally free and community supported. We add new entires to the channel each month, which plays in a random loop we call 'the firehose.' You're soaking in in it",
+               "image": "https://live.retrostrange.com/thumbnail.jpg"
+            }
+         },
+         "image": "https://live.retrostrange.com/logo",
+         "action": "video:https://live.retrostrange.com/hls/0/stream.m3u8"
+      },
+      {
+         "title": "Swim Rewind",
+         "titleFooter": "2000's TV, CN, Toonami, and AS Content",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "[swim rewind] is a non-profit fan site. No affiliation with any network. 2000's TV, CN, Toonami, and AS Content.",
+               "image": "https://swimrewind.com/thumbnail.jpg"
+            }
+         },
+         "image": "https://swimrewind.com/logo",
+         "action": "video:https://swimrewind.com/hls/stream.m3u8"
+      },
+      {
+         "title": "24/7 Chiptune Radio",
+         "titleFooter": "Only the finest chiptunes playing 24/7",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Radio Streams https://radio.zelerk.com/public/chiptune https://radio.zelerk.com/public/vapor Other Streams https://watch.vapor.fm",
+               "image": "https://watch.chiptune.fm/thumbnail.jpg"
+            }
+         },
+         "image": "https://watch.chiptune.fm/logo",
+         "action": "video:https://watch.chiptune.fm/hls/0/stream.m3u8"
+      },
+      {
+         "title": "24/7 Vapor Funk Radio",
+         "titleFooter": "Only the finest vapor funk playing 24/7",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Radio Streams https://radio.zelerk.com/public/chiptune https://radio.zelerk.com/public/vapor Other Streams https://watch.chiptune.fm",
+               "image": "https://watch.vapor.fm/thumbnail.jpg"
+            }
+         },
+         "image": "https://watch.vapor.fm/logo",
+         "action": "video:https://watch.vapor.fm/hls/0/stream.m3u8"
+      },
+      {
+         "title": "XON",
+         "titleFooter": "Het TV kanaal van de streek!",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "XON - Het TV kanaal van de streek! - Ede - Veenendaal - Rhenen - Lunteren - Bennekom - Otterlo - Harskamp - De Klomp",
+               "image": "https://live.omroepnet.nl/thumbnail.jpg"
+            }
+         },
+         "image": "https://live.omroepnet.nl/logo",
+         "action": "video:https://live.omroepnet.nl/hls/0/stream.m3u8"
+      },
+      {
+         "title": "Freifunk München - Weather Stream",
+         "titleFooter": "Heimstettner See Cam",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "More infos about our cause: https://mitglieder.ffmuc.net Support us at https://spende.ffmuc.net",
+               "image": "https://silo.ffmuc.net/thumbnail.jpg"
+            }
+         },
+         "image": "https://silo.ffmuc.net/logo",
+         "action": "video:https://silo.ffmuc.net/hls/0/stream.m3u8"
+      },
+      {
+         "title": "News Central Television Live Stream",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "The latest news and current affairs. Stay informed with our bold coverage, in-depth programmes, live reports, top stories, global events, and more. Watch LIVE on DSTV 422 | StarTimes 274 | GOtv 23.",
+               "image": "http://wf.newscentral.ng:9080/thumbnail.jpg"
+            }
+         },
+         "image": "http://wf.newscentral.ng:9080/logo",
+         "action": "video:http://wf.newscentral.ng:9080/hls/0/stream.m3u8"
+      },
+      {
+         "title": "The Old Timey Computer Show",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "A 24/7 showcase of computer and video game tapes and films from the 20th century, including history, promotional material, competitions, tutorials, computer art, and other ephemera. Curated by TheOpponent since 18 May 2019. Independently hosted since 2 September 2025.",
+               "image": "https://otcs.minuspoint.com/thumbnail.jpg"
+            }
+         },
+         "image": "https://otcs.minuspoint.com/logo",
+         "action": "video:https://otcs.minuspoint.com/hls/0/stream.m3u8"
+      },
+      {
+         "title": "V O I D",
+         "titleFooter": "Long Live The Underground",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "24/7 VOID STREAM : THE AGE OF DECENTRALIZATION",
+               "image": "https://mthrbord.tv/thumbnail.jpg"
+            }
+         },
+         "image": "https://mthrbord.tv/logo",
+         "action": "video:https://mthrbord.tv/hls/0/stream.m3u8"
+      },
+      {
+         "title": "Wochenschau TV",
+         "titleFooter": "Dies ist die Sendezentrale von WSTV",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Auf WSTV seht ihr täglich legendäre Serien, Filme und Dokus. Wir bieten auch einen Platz für alternative Medien - so ist auch das ein oder andere Sehenswerte rund um die Themen Grenzwissenschaft, Hintergrundpolitik, Geschichte, Archäologie, Religion und Technik mit im Programm.",
+               "image": "https://wochenschautv.com/thumbnail.jpg"
+            }
+         },
+         "image": "https://wochenschautv.com/logo",
+         "action": "video:https://wochenschautv.com/hls/0/stream.m3u8"
+      },
+      {
+         "title": "24hr kpop TV Broadcast",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "24hr KPOP Television Broadcast Network",
+               "image": "https://live.24hrkpop.com/thumbnail.jpg"
+            }
+         },
+         "image": "https://live.24hrkpop.com/logo",
+         "action": "video:https://live.24hrkpop.com/hls/0/stream.m3u8"
+      },
+      {
+         "title": "RADIO67TV",
+         "titleFooter": "En vivo desde Sabana de la Mar, Hato Mayor, Rep. Dominicana",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Bienvenidos Gracias por visitarnos Contacto: Eduardo Hilario Ramírez 1 (829) 381-3592",
+               "image": "https://radio67tv.tvabierta.net/thumbnail.jpg"
+            }
+         },
+         "image": "https://radio67tv.tvabierta.net/logo",
+         "action": "video:https://radio67tv.tvabierta.net/hls/0/stream.m3u8"
+      },
+      {
+         "title": "[after swim]",
+         "titleFooter": "awesome stream that is cool and kicks ass",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "awesome stream that is cool and kicks ass",
+               "image": "https://owncast.afterswim.org/thumbnail.jpg"
+            }
+         },
+         "image": "https://owncast.afterswim.org/logo",
+         "action": "video:https://owncast.afterswim.org/hls/stream.m3u8"
+      },
+      {
+         "title": "Radio90 TV",
+         "titleFooter": "Tus Videos Remember",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Bienvenido a Radio90 TV Escuchanos en www.radio90.fm",
+               "image": "https://tv.radio90.fm/thumbnail.jpg"
+            }
+         },
+         "image": "https://tv.radio90.fm/logo",
+         "action": "video:https://tv.radio90.fm/hls/0/stream.m3u8"
+      },
+      {
+         "title": "lalala tv",
+         "titleFooter": "experimental broadcasting",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "This is a new live video streaming server powered by Owncast.",
+               "image": "https://stream.lalalatvchannel.com/thumbnail.jpg"
+            }
+         },
+         "image": "https://stream.lalalatvchannel.com/logo",
+         "action": "video:https://stream.lalalatvchannel.com/hls/stream.m3u8"
+      },
+      {
+         "title": "TheUpperLeft",
+         "titleFooter": "Come 🚀SPACE OUT🛰️ with us!",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "A 24/7 view of Bellingham Bay & downtown Bellingham (Washington state, USA) showcasing the beauty of the PNW as well as the weather systems that move through here. Enjoy!",
+               "image": "https://theupperleft.thesprawl.online/thumbnail.jpg"
+            }
+         },
+         "image": "https://theupperleft.thesprawl.online/logo",
+         "action": "video:https://theupperleft.thesprawl.online/hls/0/stream.m3u8"
+      },
+      {
+         "title": "Mellow Mountain Radio",
+         "titleFooter": "106.5 FM & 780 AM KAZM",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "106.5 FM & 780 AM KAZM: Your Northern Arizona Lifeline for News and Entertainment Dive into the pulse of Northern Arizona with 106.5 FM & 780 AM KAZM, where our expert team delivers the perfect mix of breaking news, local events, and entertainment. With a commitment to factual, captivating content, we’re here to inform, educate, and entertain, no matter your location. Whether you're in search of insight or a bit of enjoyment, KAZM stands ready as your ideal companion.",
+               "image": "https://owncast.mellowmountainradio.com/thumbnail.jpg"
+            }
+         },
+         "image": "https://owncast.mellowmountainradio.com/logo",
+         "action": "video:https://owncast.mellowmountainradio.com/hls/0/stream.m3u8"
+      },
+      {
+         "title": "Leighton Media Live",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "This is the Leighton Media Live Stream",
+               "image": "https://leighton.prcht.host/thumbnail.jpg"
+            }
+         },
+         "image": "https://leighton.prcht.host/logo",
+         "action": "video:https://leighton.prcht.host/hls/0/stream.m3u8"
+      },
+      {
+         "title": "Naga FM Live Stream",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Internet Tamil FM 24/7/365 For more info Contact India 11/4 Pooja Garden Kalapatti Road Civil Aerodrome Post Coimbatore 641014 Tamilnadu India Sales +91 7550379111 Finance +91 7550379222 Support Hotlines USA : +1 630 800 3144 Canada +1 226 240 4084 Singapore : +65 3159 1004 Malaysia : +601 67410180 Indonesia +62 8117 041972 Australia : +61 2 8317 1103 England",
+               "image": "https://stream.nagafm.in/thumbnail.jpg"
+            }
+         },
+         "image": "https://stream.nagafm.in/logo",
+         "action": "video:https://stream.nagafm.in/hls/0/stream.m3u8"
+      },
+      {
+         "title": "The Roseburg Receiver Live",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "This feed is emergency communications within the Douglas County, Oregon (Roseburg) area. The clearest audio feed in Douglas County, Oregon! Douglas County Sheriff, Oregon State Police, Fire Dispatch, EMS, DFPA, ODOT, Search and Rescue.",
+               "image": "https://live.theroseburgreceiver.com/thumbnail.jpg"
+            }
+         },
+         "image": "https://live.theroseburgreceiver.com/logo",
+         "action": "video:https://live.theroseburgreceiver.com/hls/0/stream.m3u8"
+      },
+      {
+         "title": "Radio-Satisfaction.de *Livestream*",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Wir sind Radio-Satisfaction! Dabei sein ist alles! the best music from Elektrosound",
+               "image": "https://livestream.rasat.tv/thumbnail.jpg"
+            }
+         },
+         "image": "https://livestream.rasat.tv/logo",
+         "action": "video:https://livestream.rasat.tv/hls/0/stream.m3u8"
+      },
+      {
+         "title": "Brads Print Shop",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Just a streaming server to monitor my printer",
+               "image": "https://owncast.dvshome.org/thumbnail.jpg"
+            }
+         },
+         "image": "https://owncast.dvshome.org/logo",
+         "action": "video:https://owncast.dvshome.org/hls/0/stream.m3u8"
+      }
+   ]
+}
