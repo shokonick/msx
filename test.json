@@ -5,11 +5,8 @@
    "action": "[settings:validate_links:0|home]", 
    "dictionary": "http://shokonick.github.io/msx/he.json",  
    "template": {
-      "tag": "ברו",
-      "tagColor": "msx-green",
       "type": "separate",
       "layout": "0,0,2,3",
-      "icon": "msx-white-soft:lunch-dining",
       "color": "msx-glass"
    },
    "items": [
@@ -23,6 +20,11 @@
       {
          "title": "Test TV",
          "action": "link:http://moeitv.ru/player_hls.php?channel=shoko"   
+      },
+      {
+         "image": "https://shokonick.github.io/msx/channelIcon.png",
+         "title": "Owncast Directory",
+         "action": "link:owncast.json"   
       },
       {
          "image": "https://webchnl.com/assets/img/channelicons/testing.png",
