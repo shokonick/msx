@@ -154,20 +154,6 @@
          "action": "video:https://silo.ffmuc.net/hls/0/stream.m3u8"
       },
       {
-         "title": "News Central Television Live Stream",
-         "titleFooter": "",
-         "selection": {
-            "important": true,
-            "action": "[update:content:overlay:image|update:content:overlay:text]",
-            "data": {
-               "text": "The latest news and current affairs. Stay informed with our bold coverage, in-depth programmes, live reports, top stories, global events, and more. Watch LIVE on DSTV 422 | StarTimes 274 | GOtv 23.",
-               "image": "http://wf.newscentral.ng:9080/thumbnail.jpg"
-            }
-         },
-         "image": "http://wf.newscentral.ng:9080/logo",
-         "action": "video:http://wf.newscentral.ng:9080/hls/0/stream.m3u8"
-      },
-      {
          "title": "The Old Timey Computer Show",
          "titleFooter": "",
          "selection": {
