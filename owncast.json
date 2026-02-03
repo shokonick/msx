@@ -333,7 +333,7 @@
             }
          },
          "image": "https://live.theroseburgreceiver.com/logo",
-         "action": "video:https://live.theroseburgreceiver.com/hls/0/stream.m3u8"
+         "action": "video:https://live.theroseburgreceiver.com/hls/stream.m3u8"
       },
       {
          "title": "Radio-Satisfaction.de *Livestream*",
