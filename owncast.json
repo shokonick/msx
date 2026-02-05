@@ -180,6 +180,20 @@
          "image": "https://mthrbord.tv/logo",
          "action": "video:https://mthrbord.tv/hls/0/stream.m3u8"
       },
+            {
+         "title": "LABR LIVE",
+         "titleFooter": "24/7 radio stream",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "love a brother radio is an online stream for an international collective of contributors playing house adjacent eclectic genres and sounds that inspire us to live, love or act. We are dedicated to a no drama home for tunes, community, solidarity, social conscious and fun.",
+               "image": "https://stream.labr.online/thumbnail.jpg"
+            }
+         },
+         "image": "https://stream.labr.online/logo",
+         "action": "video:https://stream.labr.online/hls/0/stream.m3u8"
+      },
       {
          "title": "Wochenschau TV",
          "titleFooter": "Dies ist die Sendezentrale von WSTV",
