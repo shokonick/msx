@@ -16,10 +16,16 @@
          "action": "link:https://stream.place/embed/pubtoons.com"
       },
       {
-         "title": "Item 2"
+         "title": "@megaradio.bsky.social",
+         "image": "https://stream.place//api/playback/megaradio.bsky.social/stream.jpg",
+         "titleFooter": "Music ☀️ Euphoria",
+         "action": "link:https://stream.place/embed/megaradio.bsky.social"
       },
       {
-         "title": "Item 3"
+         "title": "@otaconvgmradio.bsky.social",
+         "image": "https://stream.place//api/playback/otaconvgmradio.bsky.social/stream.jpg",
+         "titleFooter": "Chill VGM Music",
+         "action": "link:https://stream.place/embed/otaconvgmradio.bsky.social"
       },
       {
          "title": "Item 4"
