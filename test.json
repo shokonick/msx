@@ -38,7 +38,7 @@
       },
       {
          "title": "Test TV",
-         "action": "content:id:bly:47l-s5o-b"   
+         "action": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=http://m3u4u.com/m3u/x79znk3drwb46x4qngk2"   
       },
        {
          "title": "streams",
