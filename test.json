@@ -32,6 +32,11 @@
          "action": "link:https://whiplash.cc/testing/"   
       },
       {
+         "image": "https://play-lh.googleusercontent.com/moWm_-vwnENULI4SngwysjSz68JtPWND8Na1vhiHgn3A9HQZNtcF0tS4IpBWYUk6jDo=w240-h480-rw",
+         "title": "Streamplace",
+         "action": "content:https://shokonick.github.io/msx/Streamplace.json"   
+      },
+      {
          "title": "Test TV",
          "action": "content:id:bly:47l-s5o-b"   
       },
