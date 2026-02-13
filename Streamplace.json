@@ -2,7 +2,7 @@
    "type": "list",
    "headline": "Streamplace",
    "template": {
-      "layout": "0,0,3,2",
+      "layout": "0,0,4,3",
       "color": "msx-glass",
       "iconSize": "medium",
       "title": "Title",
