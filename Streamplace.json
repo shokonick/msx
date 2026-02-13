@@ -44,7 +44,7 @@
          "image": "https://stream.place//api/playback/rtareview.stream/stream.jpg",
          "titleFooter": "RTAReview: Top Recently Verified Speedruns | More Info: https://rtareview.stream/",
          "action": "link:https://stream.place/embed/rtareview.stream"
-      }
+      },
       {
          "title": "@otaconvgmradio.bsky.social",
          "image": "https://stream.place//api/playback/otaconvgmradio.bsky.social/stream.jpg",
