@@ -22,6 +22,11 @@
          "action": "link:http://moeitv.ru/player_hls.php?channel=shoko"   
       },
       {
+         "image": "https://cid1290.s3.pub.eu-lsn-prc.nimag.net/wm-pictures-production/q6yutesa20x720pkrergipxvkxty",
+         "title": "mx3",
+         "action": "link:https://mx3.ch/tv"   
+      },
+      {
          "image": "https://shokonick.github.io/msx/channelIcon.png",
          "title": "Owncast Directory",
          "action": "content:https://shokonick.github.io/msx/owncast.json"   
