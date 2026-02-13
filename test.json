@@ -1,6 +1,6 @@
 {
    "type": "pages",
-   "headline": "שידור חי",
+   "headline": "the",
    "extension": "{col:msx-white}{ico:msx-white:access-time} {now:time:hh:mm}{tb}{ico:msx-white:coffee} ShokoMSX",
    "action": "[settings:validate_links:0|home]", 
    "dictionary": "http://shokonick.github.io/msx/he.json",  
@@ -33,7 +33,7 @@
       },
       {
          "image": "https://webchnl.com/assets/img/channelicons/testing.png",
-         "title": "webchni",
+         "title": "webchnl",
          "action": "link:https://whiplash.cc/testing/"   
       },
       {
