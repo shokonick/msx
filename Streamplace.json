@@ -22,10 +22,10 @@
          "action": "link:https://stream.place/embed/megaradio.bsky.social"
       },
       {
-         "title": "@otaconvgmradio.bsky.social",
-         "image": "https://stream.place//api/playback/otaconvgmradio.bsky.social/stream.jpg",
-         "titleFooter": "Chill VGM Music",
-         "action": "link:https://stream.place/embed/otaconvgmradio.bsky.social"
+         "title": "@burntfishy.bsky.social",
+         "image": "https://stream.place//api/playback/burntfishy.bsky.social/stream.jpg",
+         "titleFooter": "(600 songs!) Burnt Fishy's CD-DA Radio!  A collection of songs that I've ripped from over the years!",
+         "action": "link:https://stream.place/embed/burntfishy.bsky.social"
       },
       {
          "title": "@truthenforcers.com",
@@ -44,6 +44,12 @@
          "image": "https://stream.place//api/playback/rtareview.stream/stream.jpg",
          "titleFooter": "RTAReview: Top Recently Verified Speedruns | More Info: https://rtareview.stream/",
          "action": "link:https://stream.place/embed/rtareview.stream"
+      }
+      {
+         "title": "@otaconvgmradio.bsky.social",
+         "image": "https://stream.place//api/playback/otaconvgmradio.bsky.social/stream.jpg",
+         "titleFooter": "Chill VGM Music",
+         "action": "link:https://stream.place/embed/otaconvgmradio.bsky.social"
       }
    ]
 }
