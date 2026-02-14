@@ -22,10 +22,10 @@
          "action": "link:https://stream.place/embed/megaradio.bsky.social"
       },
       {
-         "title": "@atk42games.bsky.social",
-         "image": "https://stream.place//api/playback/atk42games.bsky.social/stream.jpg",
-         "titleFooter": "Silent Film Fridays: Who's in those theater seats? (1913-1929)",
-         "action": "link:https://stream.place/embed/atk42games.bsky.social"
+         "title": "@otaconvgmradio.bsky.social",
+         "image": "https://stream.place//api/playback/otaconvgmradio.bsky.social/stream.jpg",
+         "titleFooter": "Chill VGM Music",
+         "action": "link:https://stream.place/embed/otaconvgmradio.bsky.social"
       },
       {
          "title": "@truthenforcers.com",
@@ -44,12 +44,6 @@
          "image": "https://stream.place//api/playback/rtareview.stream/stream.jpg",
          "titleFooter": "RTAReview: Top Recently Verified Speedruns | More Info: https://rtareview.stream/",
          "action": "link:https://stream.place/embed/rtareview.stream"
-      },
-      {
-         "title": "@otaconvgmradio.bsky.social",
-         "image": "https://stream.place//api/playback/otaconvgmradio.bsky.social/stream.jpg",
-         "titleFooter": "Chill VGM Music",
-         "action": "link:https://stream.place/embed/otaconvgmradio.bsky.social"
       }
    ]
 }
