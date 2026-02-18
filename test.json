@@ -52,7 +52,7 @@
       {
             "icon": "build",
             "title": "Execute Action",
-            "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input={INPUT}&type=action|default|en|Execute Action Input Example|||Click on {ico:msx-white:done} to execute any action (e.g. '{txt:msx-white:video:http://...}', '{txt:msx-white:audio:http://...}', '{txt:msx-white:image:http://...}', '{txt:msx-white:link:http://...}', etc.)@http://msx.benzac.de/interaction/input.html"
+            "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input={INPUT}&type=action|default|en|Execute Action Input|||Click on {ico:msx-white:done} to execute any action (e.g. '{txt:msx-white:video:http://...}', '{txt:msx-white:audio:http://...}', '{txt:msx-white:image:http://...}', '{txt:msx-white:link:http://...}', etc.)@http://msx.benzac.de/interaction/input.html"
       }
    ]
 }
