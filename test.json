@@ -48,6 +48,11 @@
        {
          "title": "streams",
          "action": "link:http://msx.benzac.de/?secure=1&type=reference&icon=video-library&alias=streams&start=content%3Ajson%3AeyJuYW1lIjoiTTNVIExhdW5jaGVyIiwidmVyc2lvbiI6IjEuMC4wIiwiYmFja2dyb3VuZCI6bnVsbCwicmVmZXJlbmNlIjoidXNlcjpodHRwOi8vbXN4LmJlbnphYy5kZS9zZXJ2aWNlcy9tM3UucGhwP3R5cGU9dmlkZW8mbW9kZT1leHRlbmRlZCZ1cmw9Y29kZSUzQWM1eilsanklM0ElMjZzd3ElM0FGJTI1JTIzJTJCZDklNDAlNUR-JTJDOW5ZTC0zSUclMjUzJ3MtKWRnajNkWCUyNDFFRSklNUImaGVhZGxpbmU9c3RyZWFtcyJ9"   
+      },
+      {
+            "icon": "build",
+            "title": "Execute Action",
+            "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input={INPUT}&type=action|default|en|Execute Action Input Example|||Click on {ico:msx-white:done} to execute any action (e.g. '{txt:msx-white:video:http://...}', '{txt:msx-white:audio:http://...}', '{txt:msx-white:image:http://...}', '{txt:msx-white:link:http://...}', etc.)@http://msx.benzac.de/interaction/input.html"
       }
    ]
 }
