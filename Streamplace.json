@@ -16,6 +16,12 @@
          "action": "link:https://stream.place/embed/pubtoons.com"
       },
       {
+         "title": "@derrickcbyron.com",
+         "image": "https://stream.place//api/playback/derrickcbyron.com/stream.jpg",
+         "titleFooter": "24/7 Live Chill & Instrumental Music Stream",
+         "action": "link:https://stream.place/embed/derrickcbyron.com"
+      },
+      {
          "title": "@megaradio.bsky.social",
          "image": "https://stream.place//api/playback/megaradio.bsky.social/stream.jpg",
          "titleFooter": "Music ☀️ Euphoria",
