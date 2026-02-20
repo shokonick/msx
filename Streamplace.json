@@ -10,6 +10,12 @@
    },
    "items": [
       {
+         "title": "@matt.teal.town",
+         "image": "https://stream.place//api/playback/matt.teal.town/stream.jpg",
+         "titleFooter": "tealstream",
+         "action": "link:https://stream.place/embed/matt.teal.town"
+      },
+      {
          "title": "@pubtoons.com",
          "image": "https://stream.place//api/playback/pubtoons.com/stream.jpg",
          "titleFooter": "The Free-est Cartoons Ever",
