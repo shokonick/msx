@@ -46,6 +46,12 @@
          "action": "link:https://stream.place/embed/truthenforcers.com"
       },
       {
+         "title": "@byjp.me",
+         "image": "https://stream.place//api/playback/byjp.me/stream.jpg",
+         "titleFooter": "30 seconds",
+         "action": "link:https://stream.place/embed/byjp.me"
+      },
+      {
          "title": "@surveillance-map.org",
          "image": "https://stream.place//api/playback/surveillance-map.org/stream.jpg",
          "titleFooter": "SurveillanceMap LIVE · Empire State Building Observation Deck · Manhattan, NYC",
