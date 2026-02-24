@@ -251,6 +251,20 @@
          "action": "video:https://owncast.afterswim.org/hls/stream.m3u8"
       },
       {
+         "title": "NickOnline",
+         "titleFooter": "NickOnline",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Projeto independente de preservação e nostalgia. Não é afiliado à Nickelodeon ou Paramount. Todo o conteúdo pertence aos seus criadores originais. Apoie as versões oficiais.",
+               "image": "https://x1co.com.br/thumbnail.jpg"
+            }
+         },
+         "image": "https://x1co.com.br/logo",
+         "action": "video:https://x1co.com.br/hls/stream.m3u8"
+      },
+      {
          "title": "Radio90 TV",
          "titleFooter": "Tus Videos Remember",
          "selection": {
