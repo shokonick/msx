@@ -2,8 +2,8 @@
    "type": "pages",
    "headline": "the",
    "extension": "{col:msx-white}{ico:msx-white:access-time} {now:time:hh:mm}{tb}{ico:msx-white:coffee} ShokoMSX",
-   "action": "[settings:validate_links:0|home]", 
-   "dictionary": "http://shokonick.github.io/msx/he.json",  
+   "action": "[settings:validate_links:0|home]",
+   "dictionary": "http://shokonick.github.io/msx/he.json",
    "template": {
       "type": "separate",
       "layout": "0,0,2,3",
@@ -20,40 +20,49 @@
       {
          "title": "Test TV",
          "playerLabel": "Shoko",
-         "action": "video:plugin:http://moeitv.ru/player_hls.php?channel=shoko"   
+         "action": "video:plugin:https://moeitv.ru/player_hls.php?channel=Shoko",
+         "properties": {
+            "button:content:icon": "info",
+            "button:forward:enable": "false",
+            "button:play_pause:enable": "false",
+            "button:rewind:enable": "false",
+            "button:restart:enable": "false",
+            "button:speed:enable": "false",
+            "progress:marker:enable": "false"
+         }
       },
       {
          "image": "https://cid1290.s3.pub.eu-lsn-prc.nimag.net/wm-pictures-production/q6yutesa20x720pkrergipxvkxty",
          "title": "mx3",
-         "action": "link:https://mx3.ch/tv"   
+         "action": "link:https://mx3.ch/tv"
       },
       {
          "image": "https://shokonick.github.io/msx/channelIcon.png",
          "title": "Owncast Directory",
-         "action": "content:https://shokonick.github.io/msx/owncast.json"   
+         "action": "content:https://shokonick.github.io/msx/owncast.json"
       },
       {
          "image": "https://webchnl.com/assets/img/channelicons/testing.png",
          "title": "webchnl",
-         "action": "link:https://whiplash.cc/testing/"   
+         "action": "link:https://whiplash.cc/testing/"
       },
       {
          "image": "https://play-lh.googleusercontent.com/moWm_-vwnENULI4SngwysjSz68JtPWND8Na1vhiHgn3A9HQZNtcF0tS4IpBWYUk6jDo=w240-h480-rw",
          "title": "Streamplace",
-         "action": "content:https://shokonick.github.io/msx/Streamplace.json"   
+         "action": "content:https://shokonick.github.io/msx/Streamplace.json"
       },
       {
          "title": "Test TV",
-         "action": "video:plugin:https://moeitv.ru/player_hls.php?channel=jetix-tv"   
-      },
-       {
-         "title": "streams",
-         "action": "link:http://msx.benzac.de/?secure=1&type=reference&icon=video-library&alias=streams&start=content%3Ajson%3AeyJuYW1lIjoiTTNVIExhdW5jaGVyIiwidmVyc2lvbiI6IjEuMC4wIiwiYmFja2dyb3VuZCI6bnVsbCwicmVmZXJlbmNlIjoidXNlcjpodHRwOi8vbXN4LmJlbnphYy5kZS9zZXJ2aWNlcy9tM3UucGhwP3R5cGU9dmlkZW8mbW9kZT1leHRlbmRlZCZ1cmw9Y29kZSUzQWM1eilsanklM0ElMjZzd3ElM0FGJTI1JTIzJTJCZDklNDAlNUR-JTJDOW5ZTC0zSUclMjUzJ3MtKWRnajNkWCUyNDFFRSklNUImaGVhZGxpbmU9c3RyZWFtcyJ9"   
+         "action": "video:plugin:https://moeitv.ru/player_hls.php?channel=jetix-tv"
       },
       {
-            "icon": "build",
-            "title": "Execute Action",
-            "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input={INPUT}&type=action|default|en|Execute Action Input|||Click on {ico:msx-white:done} to execute any action (e.g. '{txt:msx-white:video:http://...}', '{txt:msx-white:audio:http://...}', '{txt:msx-white:image:http://...}', '{txt:msx-white:link:http://...}', etc.)@http://msx.benzac.de/interaction/input.html"
+         "title": "streams",
+         "action": "link:http://msx.benzac.de/?secure=1&type=reference&icon=video-library&alias=streams&start=content%3Ajson%3AeyJuYW1lIjoiTTNVIExhdW5jaGVyIiwidmVyc2lvbiI6IjEuMC4wIiwiYmFja2dyb3VuZCI6bnVsbCwicmVmZXJlbmNlIjoidXNlcjpodHRwOi8vbXN4LmJlbnphYy5kZS9zZXJ2aWNlcy9tM3UucGhwP3R5cGU9dmlkZW8mbW9kZT1leHRlbmRlZCZ1cmw9Y29kZSUzQWM1eilsanklM0ElMjZzd3ElM0FGJTI1JTIzJTJCZDklNDAlNUR-JTJDOW5ZTC0zSUclMjUzJ3MtKWRnajNkWCUyNDFFRSklNUImaGVhZGxpbmU9c3RyZWFtcyJ9"
+      },
+      {
+         "icon": "build",
+         "title": "Execute Action",
+         "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input={INPUT}&type=action|default|en|Execute Action Input|||Click on {ico:msx-white:done} to execute any action (e.g. '{txt:msx-white:video:http://...}', '{txt:msx-white:audio:http://...}', '{txt:msx-white:image:http://...}', '{txt:msx-white:link:http://...}', etc.)@http://msx.benzac.de/interaction/input.html"
       }
    ]
 }
