@@ -44,7 +44,7 @@
       },
       {
          "title": "Test TV",
-         "action": "video:https://autopilot.catcast.tv/mobile.m3u8?channel_id=39373&token=89df4268324c5f6d37bdbe98e173a125&server=v2.catcast.tv"   
+         "action": "video:plugin:https://moeitv.ru/player_hls.php?channel=jetix-tv"   
       },
        {
          "title": "streams",
