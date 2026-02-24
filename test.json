@@ -19,7 +19,8 @@
       },
       {
          "title": "Test TV",
-         "action": "link:http://moeitv.ru/player_hls.php?channel=shoko"   
+         "playerLabel": "Shoko",
+         "action": "video:plugin:http://moeitv.ru/player_hls.php?channel=shoko"   
       },
       {
          "image": "https://cid1290.s3.pub.eu-lsn-prc.nimag.net/wm-pictures-production/q6yutesa20x720pkrergipxvkxty",
