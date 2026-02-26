@@ -279,18 +279,18 @@
          "action": "video:https://x1co.com.br/hls/stream.m3u8"
       },
       {
-         "title": "Radio90 TV",
-         "titleFooter": "Tus Videos Remember",
+         "title": "Verniy TV",
+         "titleFooter": "adult swim, cartoon network, anime, movies, etc",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "Bienvenido a Radio90 TV Escuchanos en www.radio90.fm",
-               "image": "https://tv.radio90.fm/thumbnail.jpg"
+               "text": "adult swim, cartoon network, anime, movies, etc",
+               "image": "https://live.verniy.tv/thumbnail.jpg"
             }
          },
-         "image": "https://tv.radio90.fm/logo",
-         "action": "video:https://tv.radio90.fm/hls/0/stream.m3u8"
+         "image": "https://live.verniy.tv/logo",
+         "action": "video:https://live.verniy.tv/hls/0/stream.m3u8"
       },
       {
          "title": "lalala tv",
@@ -375,6 +375,20 @@
          },
          "image": "https://live.sekyvp.com/logo",
          "action": "video:https://live.sekyvp.com/hls/stream.m3u8"
+      },
+      {
+         "title": "Radio90 TV",
+         "titleFooter": "Tus Videos Remember",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Bienvenido a Radio90 TV Escuchanos en www.radio90.fm",
+               "image": "https://tv.radio90.fm/thumbnail.jpg"
+            }
+         },
+         "image": "https://tv.radio90.fm/logo",
+         "action": "video:https://tv.radio90.fm/hls/0/stream.m3u8"
       },
       {
          "title": "Radio Benelux Streaming",
