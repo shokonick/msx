@@ -349,6 +349,20 @@
          "action": "video:https://tv.mediagoober.com/hls/stream.m3u8"
       },
       {
+         "title": "鸭鸭电视台",
+         "titleFooter": "大鸭鸭比赛官方直播平台",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "大鸭鸭直播台 在线直播 大鸭鸭直播台是雀圣屋鸭鸭杯的官方直播平台。为什么自建平台？为了规避B站的实名认证（嘘） 以及反正也没什么人看也不打算开启收益化...",
+               "image": "https://tv.mj00.top/thumbnail.jpg"
+            }
+         },
+         "image": "https://tv.mj00.top/logo",
+         "action": "video:https://tv.mj00.top/hls/stream.m3u8"
+      },
+      {
          "title": "TheUpperLeft",
          "titleFooter": "Come 🚀SPACE OUT🛰️ with us!",
          "selection": {
@@ -389,6 +403,20 @@
          },
          "image": "https://online.geyetv.com/logo",
          "action": "video:https://online.geyetv.com/hls/stream.m3u8"
+      },
+      {
+         "title": "RS Event 24/7",
+         "titleFooter": "Lachen ist Gesund",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Willkommen auf dem RSEvent Channel!",
+               "image": "https://event.rasat.tv/thumbnail.jpg"
+            }
+         },
+         "image": "https://event.rasat.tv/logo",
+         "action": "video:https://event.rasat.tv/hls/0/stream.m3u8"
       },
       {
          "title": "Radio90 TV",
@@ -515,6 +543,20 @@
          },
          "image": "https://tavlive.com/logo",
          "action": "video:https://tavlive.com/hls/stream.m3u8"
+      },
+      {
+         "title": "Portaloka TV Trial",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "TV Online Streaming 24 Jam NonStop",
+               "image": "https://tvonline.verysetya.com/thumbnail.jpg"
+            }
+         },
+         "image": "https://tvonline.verysetya.com/logo",
+         "action": "video:https://tvonline.verysetya.com/hls/stream.m3u8"
       },
       {
          "title": "Radio-Satisfaction.de *Livestream*",
