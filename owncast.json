@@ -531,6 +531,20 @@
          "action": "video:https://livestream.rasat.tv/hls/stream.m3u8"
       },
       {
+         "title": "Wax Museum Radio",
+         "titleFooter": "Your City, Your Sound",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Your City, Your Sound",
+               "image": "https://vault.waxmuseumradio.net/thumbnail.jpg"
+            }
+         },
+         "image": "https://vault.waxmuseumradio.net/logo",
+         "action": "video:https://vault.waxmuseumradio.net/hls/0/stream.m3u8"
+      },
+      {
          "title": "Flash-Radio e.V.",
          "titleFooter": "::: Wir sind Dein Radio :::",
          "selection": {
@@ -571,6 +585,20 @@
          },
          "image": "http://live.iolambc.com/logo",
          "action": "video:http://live.iolambc.com/hls/stream.m3u8"
+      },
+      {
+         "title": "Christmas Court Radio",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "www.christmascourtradio.com",
+               "image": "https://live.smittystream.com/thumbnail.jpg"
+            }
+         },
+         "image": "https://live.smittystream.com/logo",
+         "action": "video:https://live.smittystream.com/hls/0/stream.m3u8"
       },
       {
          "title": "Streaming Ducks",
