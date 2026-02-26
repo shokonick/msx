@@ -377,6 +377,20 @@
          "action": "video:https://live.sekyvp.com/hls/stream.m3u8"
       },
       {
+         "title": "G-Eye TV Africa",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "G-Eye TV Africa is a vibrant channel that showcases African culture, faith, Sports, news, and entertainment. With inspiring programs, powerful stories, and diverse content, it serves as the eye of Africa—connecting communities, empowering lives, and bringing Africa to the world",
+               "image": "https://online.geyetv.com/thumbnail.jpg"
+            }
+         },
+         "image": "https://online.geyetv.com/logo",
+         "action": "video:https://online.geyetv.com/hls/stream.m3u8"
+      },
+      {
          "title": "Radio90 TV",
          "titleFooter": "Tus Videos Remember",
          "selection": {
@@ -473,6 +487,34 @@
          },
          "image": "https://livestream.rasat.tv/logo",
          "action": "video:https://livestream.rasat.tv/hls/stream.m3u8"
+      },
+      {
+         "title": "Flash-Radio e.V.",
+         "titleFooter": "::: Wir sind Dein Radio :::",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Flash-Radio. Wir sind Dein Radio ! 24/7 Webradio mit Videostream",
+               "image": "https://stream.flash-radio.de/thumbnail.jpg"
+            }
+         },
+         "image": "https://stream.flash-radio.de/logo",
+         "action": "video:https://stream.flash-radio.de/hls/stream.m3u8"
+      },
+      {
+         "title": "RokJok.FM",
+         "titleFooter": "Classics that Rock!",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Roger WWW Garrett became super involved with United Way when his late wife Laurie Garrett served as Vice President, Marketing and Relationship management from 2008-2013. Their daughter Liz served on the Youth Council.",
+               "image": "http://live.rokjok.fm/thumbnail.jpg"
+            }
+         },
+         "image": "http://live.rokjok.fm/logo",
+         "action": "video:http://live.rokjok.fm/hls/stream.m3u8"
       },
       {
          "title": "Live.iolambc.com",
