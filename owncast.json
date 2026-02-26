@@ -180,7 +180,7 @@
          "image": "https://mthrbord.tv/logo",
          "action": "video:https://mthrbord.tv/hls/0/stream.m3u8"
       },
-            {
+      {
          "title": "LABR LIVE",
          "titleFooter": "24/7 radio stream",
          "selection": {
@@ -307,6 +307,20 @@
          "action": "video:https://stream.lalalatvchannel.com/hls/stream.m3u8"
       },
       {
+         "title": "TUXSA TV",
+         "titleFooter": "Video e dirette",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "TUXSA.it",
+               "image": "https://tuxsa.net/thumbnail.jpg"
+            }
+         },
+         "image": "https://tuxsa.net/logo",
+         "action": "video:https://tuxsa.net/hls/0/stream.m3u8"
+      },
+      {
          "title": "CTB Perth Movies Channel",
          "titleFooter": "",
          "selection": {
@@ -319,6 +333,20 @@
          },
          "image": "https://movies.ctbperth.net.au/logo",
          "action": "video:https://movies.ctbperth.net.au/hls/stream.m3u8"
+      },
+      {
+         "title": "MediaGoober",
+         "titleFooter": "Enjoy a movie while we get things set up.",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Updates coming soon Program Schedule TBA For any comments, concerns or question please email fiona@astoriace.org",
+               "image": "https://tv.mediagoober.com/thumbnail.jpg"
+            }
+         },
+         "image": "https://tv.mediagoober.com/logo",
+         "action": "video:https://tv.mediagoober.com/hls/stream.m3u8"
       },
       {
          "title": "TheUpperLeft",
