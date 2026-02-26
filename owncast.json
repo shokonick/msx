@@ -447,6 +447,20 @@
          "action": "video:https://leighton.prcht.host/hls/0/stream.m3u8"
       },
       {
+         "title": "Rucphen RTV",
+         "titleFooter": "Je kijkt naar Rucphen TV",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Je kijkt naar Rucphen TV",
+               "image": "https://owncast3.zuidwest.cloud/thumbnail.jpg"
+            }
+         },
+         "image": "https://owncast3.zuidwest.cloud/logo",
+         "action": "video:https://owncast3.zuidwest.cloud/hls/0/stream.m3u8"
+      },
+      {
          "title": "Naga FM Live Stream",
          "titleFooter": "",
          "selection": {
@@ -473,6 +487,34 @@
          },
          "image": "https://live.theroseburgreceiver.com/logo",
          "action": "video:https://live.theroseburgreceiver.com/hls/stream.m3u8"
+      },
+      {
+         "title": "Stream of Konsciousness",
+         "titleFooter": "Bless Up",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Bless Up",
+               "image": "https://live.azeemhussein.com/thumbnail.jpg"
+            }
+         },
+         "image": "https://live.azeemhussein.com/logo",
+         "action": "video:https://live.azeemhussein.com/hls/stream.m3u8"
+      },
+      {
+         "title": "TAV Network",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "The African Voice (TAV) Network is a dynamic online TV and radio platform dedicated to amplifying the diverse stories, challenges, and successes of the African continent. With a commitment to fostering dialogue, promoting African culture, and tackling key socio-political issues, TAV Network is your go-to source for insightful discussions, news, and entertainment from across Africa. Our bold programming covers everything from politics and governance to music, sports, and cultural celebrations, offering a space where African voices are truly heard. Through powerful storytelling, thought-provoking interviews, and live shows, TAV Network unites people from all walks of life under the banner of change and progress. Our mission is simple: to inspire, inform, and engage. Slogan: “Together, We Make The Difference.” Join us as we shape the narrative and build a stronger, more connected Africa.",
+               "image": "https://tavlive.com/thumbnail.jpg"
+            }
+         },
+         "image": "https://tavlive.com/logo",
+         "action": "video:https://tavlive.com/hls/stream.m3u8"
       },
       {
          "title": "Radio-Satisfaction.de *Livestream*",
@@ -529,6 +571,20 @@
          },
          "image": "http://live.iolambc.com/logo",
          "action": "video:http://live.iolambc.com/hls/stream.m3u8"
+      },
+      {
+         "title": "Streaming Ducks",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Goodness only knows what happens here.",
+               "image": "https://streaming.ducks.world/thumbnail.jpg"
+            }
+         },
+         "image": "https://streaming.ducks.world/logo",
+         "action": "video:https://streaming.ducks.world/hls/stream.m3u8"
       },
       {
          "title": "Brads Print Shop",
