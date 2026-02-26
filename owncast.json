@@ -209,6 +209,20 @@
          "action": "video:https://wochenschautv.com/hls/0/stream.m3u8"
       },
       {
+         "title": "Cartoon Cartoons Network",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "A faux 24/7 channel consisting of classic CN, Hanna-Barbera, WB shows and Anime during the Powerhouse, CN City and Checkerboard eras. Also featuring classic programming blocks such as: Scooby Universe, Primetime, Toonami, Miguzi, Adult Swim and Cartoon Theatre. All of this in 1 Place!",
+               "image": "https://cartooncartoons.thatsoretro.com/thumbnail.jpg"
+            }
+         },
+         "image": "https://cartooncartoons.thatsoretro.com/logo",
+         "action": "video:https://cartooncartoons.thatsoretro.com/hls/stream.m3u8"
+      },
+      {
          "title": "24hr kpop TV Broadcast",
          "titleFooter": "",
          "selection": {
@@ -291,6 +305,20 @@
          },
          "image": "https://stream.lalalatvchannel.com/logo",
          "action": "video:https://stream.lalalatvchannel.com/hls/stream.m3u8"
+      },
+      {
+         "title": "CTB Perth Movies Channel",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Select movies 24/7 from Community Television Broadcasting",
+               "image": "https://movies.ctbperth.net.au/thumbnail.jpg"
+            }
+         },
+         "image": "https://movies.ctbperth.net.au/logo",
+         "action": "video:https://movies.ctbperth.net.au/hls/stream.m3u8"
       },
       {
          "title": "TheUpperLeft",
