@@ -363,6 +363,34 @@
          "action": "video:https://theupperleft.thesprawl.online/hls/0/stream.m3u8"
       },
       {
+         "title": "The Offical Open Source Tonight Owncast",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "I'm Vince, and I love open source like Linux, Docker, Nginx, and much more. Tune in when I'm live to learn more.",
+               "image": "https://live.sekyvp.com/thumbnail.jpg"
+            }
+         },
+         "image": "https://live.sekyvp.com/logo",
+         "action": "video:https://live.sekyvp.com/hls/stream.m3u8"
+      },
+      {
+         "title": "Radio Benelux Streaming",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Dit is de videostream van Radio Benelux",
+               "image": "https://video.lpam.be/thumbnail.jpg"
+            }
+         },
+         "image": "https://video.lpam.be/logo",
+         "action": "video:https://video.lpam.be/hls/stream.m3u8"
+      },
+      {
          "title": "Mellow Mountain Radio",
          "titleFooter": "106.5 FM & 780 AM KAZM",
          "selection": {
@@ -431,6 +459,20 @@
          },
          "image": "https://livestream.rasat.tv/logo",
          "action": "video:https://livestream.rasat.tv/hls/stream.m3u8"
+      },
+      {
+         "title": "Live.iolambc.com",
+         "titleFooter": "Online Outreach",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "iolambc.com",
+               "image": "http://live.iolambc.com/thumbnail.jpg"
+            }
+         },
+         "image": "http://live.iolambc.com/logo",
+         "action": "video:http://live.iolambc.com/hls/stream.m3u8"
       },
       {
          "title": "Brads Print Shop",
