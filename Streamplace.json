@@ -10,12 +10,6 @@
    },
    "items": [
       {
-         "title": "@matt.teal.town",
-         "image": "https://stream.place//api/playback/matt.teal.town/stream.jpg",
-         "titleFooter": "tealstream",
-         "action": "link:https://stream.place/embed/matt.teal.town"
-      },
-      {
          "title": "@pubtoons.com",
          "image": "https://stream.place//api/playback/pubtoons.com/stream.jpg",
          "titleFooter": "The Free-est Cartoons Ever",
@@ -40,10 +34,28 @@
          "action": "link:https://stream.place/embed/otaconvgmradio.bsky.social"
       },
       {
-         "title": "@truthenforcers.com",
-         "image": "https://stream.place//api/playback/truthenforcers.com/stream.jpg",
-         "titleFooter": "Galactic Command",
-         "action": "link:https://stream.place/embed/truthenforcers.com"
+         "title": "@dwot.com",
+         "image": "https://stream.place//api/playback/dwot.com/stream.jpg",
+         "titleFooter": "Live Grow Stream!",
+         "action": "link:https://stream.place/embed/dwot.com"
+      },
+      {
+         "title": "@pokemon-game.bsky.social",
+         "image": "https://stream.place//api/playback/pokemon-game.bsky.social/stream.jpg",
+         "titleFooter": "Streamplace plays Pokemon LeafGreen",
+         "action": "link:https://stream.place/embed/pokemon-game.bsky.social"
+      },
+      {
+         "title": "@pokemon.evil.gay",
+         "image": "https://stream.place//api/playback/pokemon.evil.gay/stream.jpg",
+         "titleFooter": "Streamplace Plays Pokémon: FireRed",
+         "action": "link:https://stream.place/embed/pokemon.evil.gay"
+      },
+      {
+         "title": "@matt.teal.town",
+         "image": "https://stream.place//api/playback/matt.teal.town/stream.jpg",
+         "titleFooter": "tealstream",
+         "action": "link:https://stream.place/embed/matt.teal.town"
       },
       {
          "title": "@byjp.me",
