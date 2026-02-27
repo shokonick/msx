@@ -34,12 +34,6 @@
          "action": "link:https://stream.place/embed/otaconvgmradio.bsky.social"
       },
       {
-         "title": "@dwot.com",
-         "image": "https://stream.place//api/playback/dwot.com/stream.jpg",
-         "titleFooter": "Live Grow Stream!",
-         "action": "link:https://stream.place/embed/dwot.com"
-      },
-      {
          "title": "@pokemon-game.bsky.social",
          "image": "https://stream.place//api/playback/pokemon-game.bsky.social/stream.jpg",
          "titleFooter": "Streamplace plays Pokemon LeafGreen",
