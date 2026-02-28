@@ -475,6 +475,20 @@
          "action": "video:https://owncast3.zuidwest.cloud/hls/0/stream.m3u8"
       },
       {
+         "title": "SchenklTV",
+         "titleFooter": "#SchenklRadio - mit Bild, Ton und Chat!",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Du hast Grüße oder Wünsche? Mitmachen kannst du unter https://www.schenklradio.de Webcams aus dem Studio und die Anzeige des aktuellen Titels hier im Bild. Das Bild ruckelt? -> Audio-only MP3-Stream: https://listen.schenklradio.de/stream.mp3 Du willst den Chat auf einem anderen Gerät verfolgen? Dann nimm doch bitte diesen Link: https://tv.schenklradio.de/embed/chat/readwrite Oder nur den Stream gucken, ohne Chat? Bitteschön: https://tv.schenklradio.de/hls/0/stream.m3u8",
+               "image": "https://tv.schenklradio.de/thumbnail.jpg"
+            }
+         },
+         "image": "https://tv.schenklradio.de/logo",
+         "action": "video:https://tv.schenklradio.de/hls/0/stream.m3u8"
+      },
+      {
          "title": "Naga FM Live Stream",
          "titleFooter": "",
          "selection": {
@@ -503,18 +517,18 @@
          "action": "video:https://live.theroseburgreceiver.com/hls/stream.m3u8"
       },
       {
-         "title": "Stream of Konsciousness",
-         "titleFooter": "Bless Up",
+         "title": "Reality-Sound Videostream",
+         "titleFooter": "Reality-Sound of Musik",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "Bless Up",
-               "image": "https://live.azeemhussein.com/thumbnail.jpg"
+               "text": "Reality-Sound of Musik",
+               "image": "https://videostream.reality-sound.de/thumbnail.jpg"
             }
          },
-         "image": "https://live.azeemhussein.com/logo",
-         "action": "video:https://live.azeemhussein.com/hls/stream.m3u8"
+         "image": "https://videostream.reality-sound.de/logo",
+         "action": "video:https://videostream.reality-sound.de/hls/stream.m3u8"
       },
       {
          "title": "TAV Network",
