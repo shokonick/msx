@@ -52,6 +52,12 @@
          "action": "link:https://stream.place/embed/matt.teal.town"
       },
       {
+         "title": "@dfalm-original.bsky.social",
+         "image": "https://stream.place//api/playback/dfalm-original.bsky.social/stream.jpg",
+         "titleFooter": "Amiga Nostalgia",
+         "action": "link:https://stream.place/embed/dfalm-original.bsky.social"
+      },
+      {
          "title": "@byjp.me",
          "image": "https://stream.place//api/playback/byjp.me/stream.jpg",
          "titleFooter": "30 seconds",
