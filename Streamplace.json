@@ -74,6 +74,12 @@
          "image": "https://stream.place//api/playback/rtareview.stream/stream.jpg",
          "titleFooter": "RTAReview: Top Recently Verified Speedruns | More Info: https://rtareview.stream/",
          "action": "link:https://stream.place/embed/rtareview.stream"
+      },
+      {
+         "title": "@dwot.com",
+         "image": "https://stream.place//api/playback/dwot.com/stream.jpg",
+         "titleFooter": "Live Grow Stream!",
+         "action": "link:https://stream.place/embed/dwot.com"
       }
    ]
 }
