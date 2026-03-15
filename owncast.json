@@ -391,18 +391,18 @@
          "action": "video:https://live.sekyvp.com/hls/stream.m3u8"
       },
       {
-         "title": "G-Eye TV Africa",
+         "title": "Kenobisboch",
          "titleFooter": "",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "G-Eye TV Africa is a vibrant channel that showcases African culture, faith, Sports, news, and entertainment. With inspiring programs, powerful stories, and diverse content, it serves as the eye of Africa—connecting communities, empowering lives, and bringing Africa to the world",
-               "image": "https://online.geyetv.com/thumbnail.jpg"
+               "text": "Il canale Owncast di Kenobisboch, un collettivo dedicato al retrogaming e alla sua cultura.",
+               "image": "https://tv.kenobisboch.it/thumbnail.jpg"
             }
          },
-         "image": "https://online.geyetv.com/logo",
-         "action": "video:https://online.geyetv.com/hls/stream.m3u8"
+         "image": "https://tv.kenobisboch.it/logo",
+         "action": "video:https://tv.kenobisboch.it/hls/stream.m3u8"
       },
       {
          "title": "RS Event 24/7",
