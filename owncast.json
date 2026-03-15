@@ -545,18 +545,18 @@
          "action": "video:https://tavlive.com/hls/stream.m3u8"
       },
       {
-         "title": "[SIC]NAL",
+         "title": "Owncast",
          "titleFooter": "",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "[sic]nal is an online radio and platform for contemporary music live from the bunker in Hamburg. It aims at building an community-oriented infrastructure.",
-               "image": "https://owncast.sicnal-stream.de/thumbnail.jpg"
+               "text": "Welkom op de video stream van Radio Hoogeveen",
+               "image": "https://stream.radiohoogeveen.nl/thumbnail.jpg"
             }
          },
-         "image": "https://owncast.sicnal-stream.de/logo",
-         "action": "video:https://owncast.sicnal-stream.de/hls/stream.m3u8"
+         "image": "https://stream.radiohoogeveen.nl/logo",
+         "action": "video:https://stream.radiohoogeveen.nl/hls/stream.m3u8"
       },
       {
          "title": "Radio-Satisfaction.de *Livestream*",
