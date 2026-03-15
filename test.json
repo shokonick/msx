@@ -52,6 +52,11 @@
          "action": "content:https://shokonick.github.io/msx/Streamplace.json"
       },
       {
+         "image": "http://wmc.emby.media/EmbyButton7_256.png",
+         "title": "Emby WMC",
+         "action": "link:http://wmc.emby.media/app/"
+      },
+      {
          "title": "Test TV",
          "action": "video:plugin:https://moeitv.ru/player_hls.php?channel=jetix-tv"
       },
