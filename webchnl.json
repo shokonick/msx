@@ -2,6 +2,7 @@
    "name": "webchnl",
    "version": "1.0.0",
    "logo": "https://static.wikitide.net/indietvwiki/5/54/WebchnlLogo.png",
+   "background": "https://i.ibb.co/5xKD3CB9/5e62e1f708c2fdb0e7a5db2020a74cbd.jpg",
    "logoSize": "small",
    "menu": [
       {
@@ -10,7 +11,7 @@
       {
          "label": "webchnl",
          "icon": "tv",
-         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://webchnl.com/api/master.m3u"
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://webchnl.com/api/master.sorted.m3u"
       },
       {
          "label": "chnl.pilot",
