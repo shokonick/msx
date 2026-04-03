@@ -57,6 +57,11 @@
          "action": "link:http://wmc.emby.media/app/"
       },
       {
+         "image": "https://shokonick.github.io/msx/the-weather-channel.png",
+         "title": "The Weather Channel - RetroCast Now",
+         "action": "link:https://weather.com/retro/"
+      },
+      {
          "title": "Test TV",
          "action": "video:plugin:https://moeitv.ru/player_hls.php?channel=jetix-tv"
       },
