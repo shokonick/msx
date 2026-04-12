@@ -16,10 +16,10 @@
          "action": "link:https://stream.place/embed/pubtoons.com"
       },
       {
-         "title": "@derrickcbyron.com",
-         "image": "https://stream.place//api/playback/derrickcbyron.com/stream.jpg",
-         "titleFooter": "24/7 Live Chill & Instrumental Music Stream",
-         "action": "link:https://stream.place/embed/derrickcbyron.com"
+         "title": "@mikulskii.bsky.social",
+         "image": "https://stream.place//api/playback/mikulskii.bsky.social/stream.jpg",
+         "titleFooter": "Mikulski_24/7 ( ಠ┏ل͜┓ಠ )",
+         "action": "link:https://stream.place/embed/mikulskii.bsky.social"
       },
       {
          "title": "@megaradio.bsky.social",
@@ -28,40 +28,16 @@
          "action": "link:https://stream.place/embed/megaradio.bsky.social"
       },
       {
-         "title": "@otaconvgmradio.bsky.social",
-         "image": "https://stream.place//api/playback/otaconvgmradio.bsky.social/stream.jpg",
-         "titleFooter": "Chill VGM Music",
-         "action": "link:https://stream.place/embed/otaconvgmradio.bsky.social"
-      },
-      {
-         "title": "@pokemon-game.bsky.social",
-         "image": "https://stream.place//api/playback/pokemon-game.bsky.social/stream.jpg",
-         "titleFooter": "Streamplace plays Pokemon LeafGreen",
-         "action": "link:https://stream.place/embed/pokemon-game.bsky.social"
-      },
-      {
          "title": "@pokemon.evil.gay",
          "image": "https://stream.place//api/playback/pokemon.evil.gay/stream.jpg",
          "titleFooter": "Streamplace Plays Pokémon: FireRed",
          "action": "link:https://stream.place/embed/pokemon.evil.gay"
       },
       {
-         "title": "@matt.teal.town",
-         "image": "https://stream.place//api/playback/matt.teal.town/stream.jpg",
-         "titleFooter": "tealstream",
-         "action": "link:https://stream.place/embed/matt.teal.town"
-      },
-      {
          "title": "@dfalm-original.bsky.social",
          "image": "https://stream.place//api/playback/dfalm-original.bsky.social/stream.jpg",
          "titleFooter": "Amiga Nostalgia",
          "action": "link:https://stream.place/embed/dfalm-original.bsky.social"
-      },
-      {
-         "title": "@byjp.me",
-         "image": "https://stream.place//api/playback/byjp.me/stream.jpg",
-         "titleFooter": "30 seconds",
-         "action": "link:https://stream.place/embed/byjp.me"
       },
       {
          "title": "@surveillance-map.org",
@@ -74,12 +50,6 @@
          "image": "https://stream.place//api/playback/rtareview.stream/stream.jpg",
          "titleFooter": "RTAReview: Top Recently Verified Speedruns | More Info: https://rtareview.stream/",
          "action": "link:https://stream.place/embed/rtareview.stream"
-      },
-      {
-         "title": "@dwot.com",
-         "image": "https://stream.place//api/playback/dwot.com/stream.jpg",
-         "titleFooter": "Live Grow Stream!",
-         "action": "link:https://stream.place/embed/dwot.com"
       }
    ]
 }
