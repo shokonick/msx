@@ -139,18 +139,18 @@
          "action": "video:https://live.omroepnet.nl/hls/0/stream.m3u8"
       },
       {
-         "title": "Freifunk München - Weather Stream",
-         "titleFooter": "Heimstettner See Cam",
+         "title": "Шарманка",
+         "titleFooter": "Жосткие стримы фильмов и игр",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "More infos about our cause: https://mitglieder.ffmuc.net Support us at https://spende.ffmuc.net",
-               "image": "https://silo.ffmuc.net/thumbnail.jpg"
+               "text": "Жосткие стримы фильмов и игр",
+               "image": "https://xn--80aaa3bihs6d.burgame.top/thumbnail.jpg"
             }
          },
-         "image": "https://silo.ffmuc.net/logo",
-         "action": "video:https://silo.ffmuc.net/hls/0/stream.m3u8"
+         "image": "https://xn--80aaa3bihs6d.burgame.top/logo",
+         "action": "video:https://xn--80aaa3bihs6d.burgame.top/hls/0/stream.m3u8"
       },
       {
          "title": "The Old Timey Computer Show",
