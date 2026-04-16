@@ -405,6 +405,20 @@
          "action": "video:https://event.rasat.tv/hls/0/stream.m3u8"
       },
       {
+         "title": "SullyUnicorn",
+         "titleFooter": "Intense Yard Mowing Action!",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "An eclectic mix of ephemeral esoterica...and stuff!",
+               "image": "https://live.sullyunicorn.com/thumbnail.jpg"
+            }
+         },
+         "image": "https://live.sullyunicorn.com/logo",
+         "action": "video:https://live.sullyunicorn.com/hls/0/stream.m3u8"
+      },
+      {
          "title": "Radio90 TV",
          "titleFooter": "Tus Videos Remember",
          "selection": {
@@ -545,6 +559,20 @@
          "action": "video:https://tavlive.com/hls/stream.m3u8"
       },
       {
+         "title": "TELEBULBO",
+         "titleFooter": "organo di propagazione memetica",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "organo di propagazione memetica",
+               "image": "https://telebulbo.sinistraverso.org/thumbnail.jpg"
+            }
+         },
+         "image": "https://telebulbo.sinistraverso.org/logo",
+         "action": "video:https://telebulbo.sinistraverso.org/hls/stream.m3u8"
+      },
+      {
          "title": "Owncast",
          "titleFooter": "",
          "selection": {
@@ -655,6 +683,20 @@
          },
          "image": "http://live.iolambc.com/logo",
          "action": "video:http://live.iolambc.com/hls/stream.m3u8"
+      },
+      {
+         "title": "Caribou Streaming Server",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Caribou Streaming Server",
+               "image": "https://media.mnrails.com/thumbnail.jpg"
+            }
+         },
+         "image": "https://media.mnrails.com/logo",
+         "action": "video:https://media.mnrails.com//hls/0/stream.m3u8"
       },
       {
          "title": "Christmas Court Radio",
