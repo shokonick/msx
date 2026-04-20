@@ -405,18 +405,18 @@
          "action": "video:https://event.rasat.tv/hls/0/stream.m3u8"
       },
       {
-         "title": "SullyUnicorn",
-         "titleFooter": "Intense Yard Mowing Action!",
+         "title": "Hacklab Jyväskylä",
+         "titleFooter": "Tämän striimin tarjoaa Hacklab Jyväskylä ry.",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "An eclectic mix of ephemeral esoterica...and stuff!",
-               "image": "https://live.sullyunicorn.com/thumbnail.jpg"
+               "text": "Tämän striimin tarjoaa Hacklab Jyväskylä ry.",
+               "image": "https://tv.jkl.hacklab.fi/thumbnail.jpg"
             }
          },
-         "image": "https://live.sullyunicorn.com/logo",
-         "action": "video:https://live.sullyunicorn.com/hls/0/stream.m3u8"
+         "image": "https://tv.jkl.hacklab.fi/logo",
+         "action": "video:https://tv.jkl.hacklab.fi/hls/0/stream.m3u8"
       },
       {
          "title": "Radio90 TV",
