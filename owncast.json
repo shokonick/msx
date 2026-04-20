@@ -307,18 +307,18 @@
          "action": "video:https://tuxsa.net/hls/0/stream.m3u8"
       },
       {
-         "title": "CTB Perth Movies Channel",
-         "titleFooter": "",
+         "title": "CTB Channel 1",
+         "titleFooter": "Community Television Perth, Western Australia",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "Select movies 24/7 from Community Television Broadcasting",
-               "image": "https://movies.ctbperth.net.au/thumbnail.jpg"
+               "text": "Community Television Perth, Western Australia",
+               "image": "https://tv1.ctbmedia.net/thumbnail.jpg"
             }
          },
-         "image": "https://movies.ctbperth.net.au/logo",
-         "action": "video:https://movies.ctbperth.net.au/hls/stream.m3u8"
+         "image": "https://tv1.ctbmedia.net/logo",
+         "action": "video:https://tv1.ctbmedia.net/hls/stream.m3u8"
       },
       {
          "title": "MediaGoober",
