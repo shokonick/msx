@@ -28,6 +28,12 @@
          "action": "link:https://stream.place/embed/megaradio.bsky.social"
       },
       {
+         "title": "@derrickcbyron.com",
+         "image": "https://stream.place//api/playback/derrickcbyron.com/stream.jpg",
+         "titleFooter": "🔴 Cozy Forest Campfire 24/7 | Peaceful Ambient Music | Focus & Relax",
+         "action": "link:https://stream.place/embed/derrickcbyron.com"
+      },
+      {
          "title": "@pokemon.evil.gay",
          "image": "https://stream.place//api/playback/pokemon.evil.gay/stream.jpg",
          "titleFooter": "Streamplace Plays Pokémon: FireRed",
