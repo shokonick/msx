@@ -503,32 +503,46 @@
          "action": "video:https://tv.schenklradio.de/hls/0/stream.m3u8"
       },
       {
-         "title": "Naga FM Live Stream",
-         "titleFooter": "",
+         "title": "RADIO67TV",
+         "titleFooter": "En vivo desde Sabana de la Mar, Hato Mayor, Rep. Dominicana",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "Internet Tamil FM 24/7/365 For more info Contact India 11/4 Pooja Garden Kalapatti Road Civil Aerodrome Post Coimbatore 641014 Tamilnadu India Sales +91 7550379111 Finance +91 7550379222 Support Hotlines USA : +1 630 800 3144 Canada +1 226 240 4084 Singapore : +65 3159 1004 Malaysia : +601 67410180 Indonesia +62 8117 041972 Australia : +61 2 8317 1103 England",
-               "image": "https://stream.nagafm.in/thumbnail.jpg"
+               "text": "Bienvenidos Gracias por visitarnos Contacto: Eduardo Hilario Ramírez 1 (829) 381-3592",
+               "image": "https://radio67tv.tvabierta.net/thumbnail.jpg"
             }
          },
-         "image": "https://stream.nagafm.in/logo",
-         "action": "video:https://stream.nagafm.in/hls/0/stream.m3u8"
+         "image": "https://radio67tv.tvabierta.net/logo",
+         "action": "video:https://radio67tv.tvabierta.net/hls/0/stream.m3u8"
       },
       {
-         "title": "The Roseburg Receiver Live",
+         "title": "G-Eye TV Africa",
          "titleFooter": "",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "This feed is emergency communications within the Douglas County, Oregon (Roseburg) area. The clearest audio feed in Douglas County, Oregon! Douglas County Sheriff, Oregon State Police, Fire Dispatch, EMS, DFPA, ODOT, Search and Rescue.",
-               "image": "https://live.theroseburgreceiver.com/thumbnail.jpg"
+               "text": "G-Eye TV Africa is a vibrant channel that showcases African culture, faith, Sports, news, and entertainment. With inspiring programs, powerful stories, and diverse content, it serves as the eye of Africa—connecting communities, empowering lives, and bringing Africa to the world",
+               "image": "https://online.geyetv.com/thumbnail.jpg"
             }
          },
-         "image": "https://live.theroseburgreceiver.com/logo",
-         "action": "video:https://live.theroseburgreceiver.com/hls/stream.m3u8"
+         "image": "https://online.geyetv.com/logo",
+         "action": "video:https://online.geyetv.com/hls/stream.m3u8"
+      },
+      {
+         "title": "Radio y TV Restaurando Vidas",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Radio y TV Restaurando Vidas",
+               "image": "https://tvrestaurandovidas.ovalcast.com/thumbnail.jpg"
+            }
+         },
+         "image": "https://tvrestaurandovidas.ovalcast.com/logo",
+         "action": "video:https://tvrestaurandovidas.ovalcast.com/hls/stream.m3u8"
       },
       {
          "title": "Reality-Sound Videostream",
