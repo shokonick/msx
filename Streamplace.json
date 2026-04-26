@@ -13,57 +13,49 @@
          "title": "@pubtoons.com",
          "image": "https://stream.place//api/playback/pubtoons.com/stream.jpg",
          "titleFooter": "24/7 Public Domain Animation",
-         "playerLabel": "@pubtoons.com",
-         "action": "video:https://stream.place/api/playback/pubtoons.com/hls/index.m3u8"
+         "action": "link:https://stream.place/embed/pubtoons.com"
       },
       {
          "title": "@mikulskii.bsky.social",
          "image": "https://stream.place//api/playback/mikulskii.bsky.social/stream.jpg",
          "titleFooter": "Mikulski_24/7 ( ಠ┏ل͜┓ಠ )",
-         "playerLabel": "@mikulskii.bsky.social",
-         "action": "video:https://stream.place/api/playback/mikulskii.bsky.social/hls/index.m3u8"
+         "action": "link:https://stream.place/embed/mikulskii.bsky.social"
       },
       {
          "title": "@megaradio.bsky.social",
          "image": "https://stream.place//api/playback/megaradio.bsky.social/stream.jpg",
          "titleFooter": "Music ☀️ Euphoria",
-         "playerLabel": "@megaradio.bsky.social",
-         "action": "video:https://stream.place/api/playback/megaradio.bsky.social/hls/index.m3u8"
+         "action": "link:https://stream.place/embed/megaradio.bsky.social"
       },
       {
          "title": "@derrickcbyron.com",
          "image": "https://stream.place//api/playback/derrickcbyron.com/stream.jpg",
          "titleFooter": "🔴 Cozy Forest Campfire 24/7 | Peaceful Ambient Music | Focus & Relax",
-         "playerLabel": "@derrickcbyron.com",
-         "action": "video:https://stream.place/api/playback/derrickcbyron.com/hls/index.m3u8"
+         "action": "link:https://stream.place/embed/derrickcbyron.com"
       },
       {
          "title": "@pokemon.evil.gay",
          "image": "https://stream.place//api/playback/pokemon.evil.gay/stream.jpg",
          "titleFooter": "Streamplace Plays Pokémon: FireRed",
-         "playerLabel": "@pokemon.evil.gay",
-         "action": "video:https://stream.place/api/playback/pokemon.evil.gay/hls/index.m3u8"
+         "action": "link:https://stream.place/embed/pokemon.evil.gay"
       },
       {
          "title": "@dfalm-original.bsky.social",
          "image": "https://stream.place//api/playback/dfalm-original.bsky.social/stream.jpg",
          "titleFooter": "Amiga Nostalgia",
-         "playerLabel": "@dfalm-original.bsky.social",
-         "action": "video:https://stream.place/api/playback/dfalm-original.bsky.social/hls/index.m3u8"
+         "action": "link:https://stream.place/embed/dfalm-original.bsky.social"
       },
       {
          "title": "@surveillance-map.org",
          "image": "https://stream.place//api/playback/surveillance-map.org/stream.jpg",
          "titleFooter": "SurveillanceMap LIVE · Empire State Building Observation Deck · Manhattan, NYC",
-         "playerLabel": "@surveillance-map.org",
-         "action": "video:https://stream.place/api/playback/surveillance-map.org/hls/index.m3u8"
+         "action": "link:https://stream.place/embed/surveillance-map.org"
       },
       {
          "title": "@rtareview.stream",
          "image": "https://stream.place//api/playback/rtareview.stream/stream.jpg",
          "titleFooter": "RTAReview: Top Recently Verified Speedruns | More Info: https://rtareview.stream/",
-         "playerLabel": "@rtareview.stream",
-         "action": "video:https://stream.place/api/playback/rtareview.stream/hls/index.m3u8"
+         "action": "link:https://stream.place/embed/rtareview.stream"
       }
    ]
 }
