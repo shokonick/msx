@@ -18,20 +18,6 @@
          "action": "audio:http://stream.zeno.fm/5ffyfuy10f9uv.mp3"
       },
       {
-         "title": "Test TV",
-         "playerLabel": "Shoko",
-         "action": "video:plugin:https://moeitv.ru/player_hls.php?channel=Shoko",
-         "properties": {
-            "button:content:icon": "info",
-            "button:forward:enable": "false",
-            "button:play_pause:enable": "false",
-            "button:rewind:enable": "false",
-            "button:restart:enable": "false",
-            "button:speed:enable": "false",
-            "progress:marker:enable": "false"
-         }
-      },
-      {
          "image": "https://cid1290.s3.pub.eu-lsn-prc.nimag.net/wm-pictures-production/q6yutesa20x720pkrergipxvkxty",
          "title": "mx3",
          "action": "link:https://mx3.ch/tv"
@@ -60,10 +46,6 @@
          "image": "https://shokonick.github.io/msx/the-weather-channel.png",
          "title": "The Weather Channel - RetroCast Now",
          "action": "link:https://weather.com/retro/"
-      },
-      {
-         "title": "Test TV",
-         "action": "video:plugin:https://moeitv.ru/player_hls.php?channel=jetix-tv"
       },
       {
          "title": "streams",
