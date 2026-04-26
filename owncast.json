@@ -741,6 +741,20 @@
          "action": "video:https://streaming.ducks.world/hls/stream.m3u8"
       },
       {
+         "title": "Manhattan Church TV",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Live video streaming server powered by Rattazzimedia.",
+               "image": "https://admin.mcoctv.us/thumbnail.jpg"
+            }
+         },
+         "image": "https://admin.mcoctv.us/logo",
+         "action": "video:https://admin.mcoctv.us/hls/stream.m3u8"
+      },
+      {
          "title": "Brads Print Shop",
          "titleFooter": "",
          "selection": {
