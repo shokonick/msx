@@ -139,18 +139,18 @@
          "action": "video:https://live.omroepnet.nl/hls/0/stream.m3u8"
       },
       {
-         "title": "Шарманка",
-         "titleFooter": "Жосткие стримы фильмов и игр",
+         "title": "Partytown TV",
+         "titleFooter": "",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "Жосткие стримы фильмов и игр",
-               "image": "https://xn--80aaa3bihs6d.burgame.top/thumbnail.jpg"
+               "text": "Каждый четверг в 19:00 по Москве у нас в гостях диджеи играют хорошую музыку. Ещё больше музыки, камер и диджеев!",
+               "image": "https://server.partytown.tv/thumbnail.jpg"
             }
          },
-         "image": "https://xn--80aaa3bihs6d.burgame.top/logo",
-         "action": "video:https://xn--80aaa3bihs6d.burgame.top/hls/0/stream.m3u8"
+         "image": "https://server.partytown.tv/logo",
+         "action": "video:https://server.partytown.tv/hls/0/stream.m3u8"
       },
       {
          "title": "The Old Timey Computer Show",
@@ -559,6 +559,20 @@
          "action": "video:https://videostream.reality-sound.de/hls/stream.m3u8"
       },
       {
+         "title": "Mixmeister Videostream",
+         "titleFooter": "Video streamserver by Mixmeister",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Video streamserver by Mixmeister",
+               "image": "https://livestream.zapto.org/thumbnail.jpg"
+            }
+         },
+         "image": "https://livestream.zapto.org/logo",
+         "action": "video:https://livestream.zapto.org/hls/stream.m3u8"
+      },
+      {
          "title": "TAV Network",
          "titleFooter": "",
          "selection": {
@@ -697,6 +711,20 @@
          },
          "image": "http://live.iolambc.com/logo",
          "action": "video:http://live.iolambc.com/hls/stream.m3u8"
+      },
+      {
+         "title": "GamesMaster",
+         "titleFooter": "All Episodes and Specials",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "A 24/7 live stream of Channel 4's GamesMaster from the early 90's. Formly hosted on Twicth, it is now self hosted thanks to the wankers at Twicth banning all 24/7streams in 2025! I started this channel afdter being inspired by The Old Timey Computer Show- Another excellent 24/7 stream that was also banned from Twicth! All epsiodes were sourced from the Internet Archive, GamesMaster is a British television programme that originally aired on Channel 4 from 7 January 1992 to 3 February 1998, becoming the first UK TV show dedicated to video games. It was created by Jane Hewland and featured Dominik Diamond as the main presenter for most of its original run, with Sir Patrick Moore appearing as the iconic GamesMaster in pre-recorded segments.",
+               "image": "https://gamesmaster.uk/thumbnail.jpg"
+            }
+         },
+         "image": "https://gamesmaster.uk/logo",
+         "action": "video:https://gamesmaster.uk/hls/0/stream.m3u8"
       },
       {
          "title": "Caribou Streaming Server",
