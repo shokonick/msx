@@ -657,18 +657,18 @@
          "action": "video:https://live.rasat.tv/hls/stream.m3u8"
       },
       {
-         "title": "RSM Digital",
-         "titleFooter": "La voz y corazón de La Mar",
+         "title": "CHANNEL 78 TV",
+         "titleFooter": "PRAIA GRANDE",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "RSM Digital - La voz y corazón de La Mar",
-               "image": "https://live.rsm106digital.com/thumbnail.jpg"
+               "text": "🔴 CHANNEL 78 TV - PRAIA GRANDE 📡 Transmissão ao vivo 24 horas 🎶 Programação musical com videoclipes 🎧 Qualidade de áudio Hi-Fi estilo rádio premium 🔥 Hits, flashbacks e sets exclusivos 🌴 Direto do litoral de São Paulo ▶️ Aperte o play e fique com a gente!",
+               "image": "https://tv.comando78.net.br/thumbnail.jpg"
             }
          },
-         "image": "https://live.rsm106digital.com/logo",
-         "action": "video:https://live.rsm106digital.com/hls/0/stream.m3u8"
+         "image": "https://tv.comando78.net.br/logo",
+         "action": "video:https://tv.comando78.net.br/hls/stream.m3u8"
       },
       {
          "title": "Flash-Radio e.V.",
