@@ -181,6 +181,20 @@
          "action": "video:https://mthrbord.tv/hls/0/stream.m3u8"
       },
       {
+         "title": "Unusual Art",
+         "titleFooter": "Akira's Visuals",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Featured MUSIC by: NECKBOMB, Front Line Assembly, Key Puncher, d o w n s t a t e, Room 208, cybermonk, Kyoumeni, Motionfield, NORTH POSSE, Archaea, NeoNRG (Z.E.R.O), Voliik, iSorin, Quantum Echo, AURAGRAPH, Nocturna, Sepultura, Black Sun Empire, Prodigy, NOISIA, Digital Dimensions, Adam Freeland, Bruised Skies,days of blue skies, XMT, Vinnie Paz, Korn, Photek, Wasted Dreams, Riothood, Yavomag, Muu, Catalina Ltd., Voyage Futur, Magdalene, Rift09, Guild Merchant, SVMU, Baychimo, Blanku, CPU Death, Golden Pills, Jacklsh, Light Blending In, Mahlow, Logic Moon, Megas, Nyoka Shoje, Samira Arianne, Shiva Ray, Spirits Unbridled, _tenebrate, Youngstigmatamanne, Yxng Demon, Dissasterix, Deatrux, China Rose ...and more.",
+               "image": "https://stream.unusualart.net/thumbnail.jpg"
+            }
+         },
+         "image": "https://stream.unusualart.net/logo",
+         "action": "video:https://stream.unusualart.net/hls/0/stream.m3u8"
+      },
+      {
          "title": "LABR LIVE",
          "titleFooter": "24/7 radio stream",
          "selection": {
@@ -207,6 +221,20 @@
          },
          "image": "https://wochenschautv.com/logo",
          "action": "video:https://wochenschautv.com/hls/0/stream.m3u8"
+      },
+      {
+         "title": "nitetime.net",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "A Live Online Television Station from Conderman.Group",
+               "image": "https://live.nitetime.net/thumbnail.jpg"
+            }
+         },
+         "image": "https://live.nitetime.net/logo",
+         "action": "video:https://live.nitetime.net/hls/0/stream.m3u8"
       },
       {
          "title": "Cartoon Cartoons Network",
@@ -363,6 +391,20 @@
          "action": "video:https://theupperleft.thesprawl.online/hls/0/stream.m3u8"
       },
       {
+         "title": "Ottercast",
+         "titleFooter": "Otternet casting central",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Where mice die...",
+               "image": "https://cast.otternet.ca/thumbnail.jpg"
+            }
+         },
+         "image": "https://cast.otternet.ca/logo",
+         "action": "video:https://cast.otternet.ca/hls/0/stream.m3u8"
+      },
+      {
          "title": "The Offical Open Source Tonight Owncast",
          "titleFooter": "",
          "selection": {
@@ -487,6 +529,20 @@
          },
          "image": "https://owncast3.zuidwest.cloud/logo",
          "action": "video:https://owncast3.zuidwest.cloud/hls/0/stream.m3u8"
+      },
+      {
+         "title": "IJmond 360 Live Stream",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Live Stream van IJmond 360",
+               "image": "https://stream.ijmond360.it/thumbnail.jpg"
+            }
+         },
+         "image": "https://stream.ijmond360.it/logo",
+         "action": "video:https://stream.ijmond360.it/hls/0/stream.m3u8"
       },
       {
          "title": "SchenklTV",
@@ -657,6 +713,34 @@
          "action": "video:https://live.rasat.tv/hls/stream.m3u8"
       },
       {
+         "title": "CHAC CHAPTER TEACHING NETWORK",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "This live stream powered by BY US FOR US, IS A OPEN SOURCE free live service. To discover more streams, visit CHAPTER CONTENT ARCHIVE PROJECT- If you can PLEASE SUPPORT WORK THAT IS FREE AND OPEN TO THE COMMUNITY UNITY IN THE COMMUNITY",
+               "image": "https://myddptv.site/thumbnail.jpg"
+            }
+         },
+         "image": "https://myddptv.site/logo",
+         "action": "video:https://myddptv.site/hls/stream.m3u8"
+      },
+      {
+         "title": "NYC isoc LIVE FREE",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "This is a live service powered by THE SMART COMMUNITY INITIATIVE, To discover MORE INFORMATION visit ISOCNY LIVE.",
+               "image": "https://myliveisoc.live/thumbnail.jpg"
+            }
+         },
+         "image": "https://myliveisoc.live/logo",
+         "action": "video:https://myliveisoc.live/hls/stream.m3u8"
+      },
+      {
          "title": "CHANNEL 78 TV",
          "titleFooter": "PRAIA GRANDE",
          "selection": {
@@ -713,6 +797,20 @@
          "action": "video:http://live.iolambc.com/hls/stream.m3u8"
       },
       {
+         "title": "Просто стрим",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "This is a new live video streaming server powered by Owncast. contact email: admin@leshkov.su",
+               "image": "https://owncast.leshkov.su/thumbnail.jpg"
+            }
+         },
+         "image": "https://owncast.leshkov.su/logo",
+         "action": "video:https://owncast.leshkov.su/hls/0/stream.m3u8"
+      },
+      {
          "title": "GamesMaster",
          "titleFooter": "All Episodes and Specials",
          "selection": {
@@ -767,6 +865,20 @@
          },
          "image": "https://streaming.ducks.world/logo",
          "action": "video:https://streaming.ducks.world/hls/stream.m3u8"
+      },
+      {
+         "title": "COSIGO™ Live",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Official live video stream of the COSIGO™ project, powered by Owncast and Caddy. This channel explores ERC-20 smart contracts, hot and cold wallet structure, silver-backed tokens, exchange mechanisms, precious metals, and deeper questions surrounding cost, price, and value. Financial topics are addressed with relevance, clarity, and full disclosure. COSIGO operates under its codex, providing a level of transparency and accountability seldom seen elsewhere.",
+               "image": "https://stream.cosigo.io/thumbnail.jpg"
+            }
+         },
+         "image": "https://stream.cosigo.io/logo",
+         "action": "video:https://stream.cosigo.io/hls/stream.m3u8"
       },
       {
          "title": "Manhattan Church TV",
