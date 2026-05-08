@@ -853,20 +853,6 @@
          "action": "video:https://live.smittystream.com/hls/0/stream.m3u8"
       },
       {
-         "title": "Streaming Ducks",
-         "titleFooter": "",
-         "selection": {
-            "important": true,
-            "action": "[update:content:overlay:image|update:content:overlay:text]",
-            "data": {
-               "text": "Goodness only knows what happens here.",
-               "image": "https://streaming.ducks.world/thumbnail.jpg"
-            }
-         },
-         "image": "https://streaming.ducks.world/logo",
-         "action": "video:https://streaming.ducks.world/hls/stream.m3u8"
-      },
-      {
          "title": "COSIGO™ Live",
          "titleFooter": "",
          "selection": {
@@ -893,6 +879,20 @@
          },
          "image": "https://admin.mcoctv.us/logo",
          "action": "video:https://admin.mcoctv.us/hls/stream.m3u8"
+      },
+      {
+         "title": "Streaming Ducks",
+         "titleFooter": "",
+         "selection": {
+            "important": true,
+            "action": "[update:content:overlay:image|update:content:overlay:text]",
+            "data": {
+               "text": "Goodness only knows what happens here.",
+               "image": "https://streaming.ducks.world/thumbnail.jpg"
+            }
+         },
+         "image": "https://streaming.ducks.world/logo",
+         "action": "video:https://streaming.ducks.world/hls/stream.m3u8"
       },
       {
          "title": "Brads Print Shop",
