@@ -727,18 +727,18 @@
          "action": "video:https://myddptv.site/hls/stream.m3u8"
       },
       {
-         "title": "NYC isoc LIVE FREE",
-         "titleFooter": "",
+         "title": "F0RTHSP4CE",
+         "titleFooter": "Hackerspace in Tbilisi",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "This is a live service powered by THE SMART COMMUNITY INITIATIVE, To discover MORE INFORMATION visit ISOCNY LIVE.",
-               "image": "https://myliveisoc.live/thumbnail.jpg"
+               "text": "Hackerspace in Tbilisi",
+               "image": "https://tv.f0rth.space/thumbnail.jpg"
             }
          },
-         "image": "https://myliveisoc.live/logo",
-         "action": "video:https://myliveisoc.live/hls/stream.m3u8"
+         "image": "https://tv.f0rth.space/logo",
+         "action": "video:https://tv.f0rth.space/hls/stream.m3u8"
       },
       {
          "title": "CHANNEL 78 TV",
