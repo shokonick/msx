@@ -825,18 +825,18 @@
          "action": "video:https://gamesmaster.uk/hls/0/stream.m3u8"
       },
       {
-         "title": "RSM Digital",
-         "titleFooter": "La voz y corazón de La Mar",
+         "title": "RaveCave 2.0",
+         "titleFooter": "P.L.U.R.",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "RSM Digital - La voz y corazón de La Mar",
-               "image": "https://live.rsm106digital.com/thumbnail.jpg"
+               "text": "P.L.U.R.",
+               "image": "https://ravecave.publicvm.com/thumbnail.jpg"
             }
          },
-         "image": "https://live.rsm106digital.com/logo",
-         "action": "video:https://live.rsm106digital.com/hls/0/stream.m3u8"
+         "image": "https://ravecave.publicvm.com/logo",
+         "action": "video:https://ravecave.publicvm.com/hls/0/stream.m3u8"
       },
       {
          "title": "Christmas Court Radio",
