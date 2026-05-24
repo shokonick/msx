@@ -279,20 +279,6 @@
          "action": "video:https://x1co.com.br/hls/0/stream.m3u8"
       },
       {
-         "title": "[after swim]",
-         "titleFooter": "awesome stream that is cool and kicks ass",
-         "selection": {
-            "important": true,
-            "action": "[update:content:overlay:image|update:content:overlay:text]",
-            "data": {
-               "text": "awesome stream that is cool and kicks ass",
-               "image": "https://afterswim.org/thumbnail.jpg"
-            }
-         },
-         "image": "https://afterswim.org/logo",
-         "action": "video:https://afterswim.org/hls/stream.m3u8"
-      },
-      {
          "title": "Verniy TV",
          "titleFooter": "adult swim, cartoon network, anime, movies, etc",
          "selection": {
