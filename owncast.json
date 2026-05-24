@@ -657,20 +657,6 @@
          "action": "video:https://stream.radiohoogeveen.nl/hls/stream.m3u8"
       },
       {
-         "title": "OvalCast LIVE",
-         "titleFooter": "",
-         "selection": {
-            "important": true,
-            "action": "[update:content:overlay:image|update:content:overlay:text]",
-            "data": {
-               "text": "Ovalcast Live es el espacio de transmisión en tiempo real donde la radio y el video cobran vida al instante. Aquí puedes disfrutar de contenido en vivo con la esencia de Ovalcast, combinando audio y video en una experiencia continua y dinámica.",
-               "image": "https://stream.ovalcast.com/thumbnail.jpg"
-            }
-         },
-         "image": "https://stream.ovalcast.com/logo",
-         "action": "video:https://stream.ovalcast.com/hls/stream.m3u8"
-      },
-      {
          "title": "Radio-Satisfaction.de *Livestream*",
          "titleFooter": "",
          "selection": {
