@@ -671,18 +671,18 @@
          "action": "video:https://livestream.rasat.tv/hls/stream.m3u8"
       },
       {
-         "title": "RaSat Radio-Satisfaction *Promostream*",
-         "titleFooter": "",
+         "title": "Beat-Zentrale",
+         "titleFooter": "Wir spielen die Hits von Morgen!",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
                "text": "Wir spielen die Hits von Morgen!",
-               "image": "https://live.rasat.tv//thumbnail.jpg"
+               "image": "https://live.beat-zentrale.de/thumbnail.jpg"
             }
          },
-         "image": "https://live.rasat.tv/logo",
-         "action": "video:https://live.rasat.tv/hls/stream.m3u8"
+         "image": "https://live.beat-zentrale.de/logo",
+         "action": "video:https://live.beat-zentrale.de/hls/stream.m3u8"
       },
       {
          "title": "CHAC CHAPTER TEACHING NETWORK",
