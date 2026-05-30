@@ -629,18 +629,18 @@
          "action": "video:https://tavlive.com/hls/stream.m3u8"
       },
       {
-         "title": "TELEBULBO",
-         "titleFooter": "organo di propagazione memetica",
+         "title": "The Roseburg Receiver Live",
+         "titleFooter": "",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "organo di propagazione memetica",
-               "image": "https://telebulbo.sinistraverso.org/thumbnail.jpg"
+               "text": "This feed is emergency communications within the Douglas County, Oregon (Roseburg) area. The clearest audio feed in Douglas County, Oregon! Douglas County Sheriff, Oregon State Police, Fire Dispatch, EMS, DFPA, ODOT, Search and Rescue.",
+               "image": "https://live.theroseburgreceiver.com/thumbnail.jpg"
             }
          },
-         "image": "https://telebulbo.sinistraverso.org/logo",
-         "action": "video:https://telebulbo.sinistraverso.org/hls/stream.m3u8"
+         "image": "https://live.theroseburgreceiver.com/logo",
+         "action": "video:https://live.theroseburgreceiver.com/hls/stream.m3u8"
       },
       {
          "title": "Owncast",
