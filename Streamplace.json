@@ -44,6 +44,18 @@
          "image": "https://stream.place//api/playback/pibb.in/stream.jpg",
          "titleFooter": "Live pigeon camera | 5:30-19:30 UTC every day",
          "action": "link:https://stream.place/embed/pibb.in"
+      },
+      {
+         "title": "@tbtv.bsky.social",
+         "image": "https://stream.place//api/playback/tbtv.bsky.social/stream.jpg",
+         "titleFooter": "TBTV",
+         "action": "link:https://stream.place/embed/tbtv.bsky.social"
+      },
+      {
+         "title": "@jbc.lol",
+         "image": "https://stream.place//api/playback/jbc.lol/stream.jpg",
+         "titleFooter": "DVDTV: 24/7 Bouncing DVD Logo Stream to Sleep, Code, Stare to",
+         "action": "link:https://stream.place/embed/jbc.lol"
       }
    ]
 }
