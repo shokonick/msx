@@ -56,6 +56,12 @@
          "image": "https://stream.place//api/playback/jbc.lol/stream.jpg",
          "titleFooter": "DVDTV: 24/7 Bouncing DVD Logo Stream to Sleep, Code, Stare to",
          "action": "link:https://stream.place/embed/jbc.lol"
+      },
+      {
+         "title": "@dfalm-original.bsky.social",
+         "image": "https://stream.place//api/playback/dfalm-original.bsky.social/stream.jpg",
+         "titleFooter": "Amiga Nostalgia",
+         "action": "link:https://stream.place/embed/dfalm-original.bsky.social"
       }
    ]
 }
