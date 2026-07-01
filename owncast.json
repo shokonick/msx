@@ -657,20 +657,6 @@
          "action": "video:https://stream.radiohoogeveen.nl/hls/stream.m3u8"
       },
       {
-         "title": "Radio-Satisfaction.de *Livestream*",
-         "titleFooter": "",
-         "selection": {
-            "important": true,
-            "action": "[update:content:overlay:image|update:content:overlay:text]",
-            "data": {
-               "text": "Wir sind Radio-Satisfaction! Dabei sein ist alles! the best music from Elektrosound",
-               "image": "https://livestream.rasat.tv/thumbnail.jpg"
-            }
-         },
-         "image": "https://livestream.rasat.tv/logo",
-         "action": "video:https://livestream.rasat.tv/hls/stream.m3u8"
-      },
-      {
          "title": "Beat-Zentrale",
          "titleFooter": "Wir spielen die Hits von Morgen!",
          "selection": {
@@ -865,20 +851,6 @@
          },
          "image": "https://streaming.ducks.world/logo",
          "action": "video:https://streaming.ducks.world/hls/stream.m3u8"
-      },
-      {
-         "title": "Brads Print Shop",
-         "titleFooter": "",
-         "selection": {
-            "important": true,
-            "action": "[update:content:overlay:image|update:content:overlay:text]",
-            "data": {
-               "text": "Just a streaming server to monitor my printer",
-               "image": "https://owncast.dvshome.org/thumbnail.jpg"
-            }
-         },
-         "image": "https://owncast.dvshome.org/logo",
-         "action": "video:https://owncast.dvshome.org/hls/0/stream.m3u8"
       }
    ]
 }
