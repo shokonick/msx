@@ -40,28 +40,28 @@
          "action": "link:https://stream.place/embed/rtareview.stream"
       },
       {
-         "title": "@pibb.in",
-         "image": "https://stream.place//api/playback/pibb.in/stream.jpg",
-         "titleFooter": "Live pigeon camera | 5:30-19:30 UTC every day",
-         "action": "link:https://stream.place/embed/pibb.in"
-      },
-      {
-         "title": "@tbtv.bsky.social",
-         "image": "https://stream.place//api/playback/tbtv.bsky.social/stream.jpg",
-         "titleFooter": "TBTV",
-         "action": "link:https://stream.place/embed/tbtv.bsky.social"
-      },
-      {
-         "title": "@jbc.lol",
-         "image": "https://stream.place//api/playback/jbc.lol/stream.jpg",
-         "titleFooter": "DVDTV: 24/7 Bouncing DVD Logo Stream to Sleep, Code, Stare to",
-         "action": "link:https://stream.place/embed/jbc.lol"
-      },
-      {
          "title": "@dfalm-original.bsky.social",
          "image": "https://stream.place//api/playback/dfalm-original.bsky.social/stream.jpg",
          "titleFooter": "Amiga Nostalgia",
          "action": "link:https://stream.place/embed/dfalm-original.bsky.social"
+      },
+      {
+         "title": "@byjp.me",
+         "image": "https://stream.place//api/playback/byjp.me/stream.jpg",
+         "titleFooter": "30 seconds",
+         "action": "link:https://stream.place/embed/byjp.me"
+      },
+      {
+         "title": "@dwot.com",
+         "image": "https://stream.place//api/playback/dwot.com/stream.jpg",
+         "titleFooter": "Live Grow Stream!",
+         "action": "link:https://stream.place/embed/dwot.com"
+      },
+      {
+         "title": "@pibb.in",
+         "image": "https://stream.place//api/playback/pibb.in/stream.jpg",
+         "titleFooter": "Live pigeon camera | 5:30-19:30 UTC every day",
+         "action": "link:https://stream.place/embed/pibb.in"
       }
    ]
 }
