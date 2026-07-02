@@ -377,18 +377,18 @@
          "action": "video:https://theupperleft.thesprawl.online/hls/0/stream.m3u8"
       },
       {
-         "title": "Ottercast",
-         "titleFooter": "Otternet casting central",
+         "title": "Freifunk München - Weather Stream",
+         "titleFooter": "Heimstettner See Cam",
          "selection": {
             "important": true,
             "action": "[update:content:overlay:image|update:content:overlay:text]",
             "data": {
-               "text": "Where mice die...",
-               "image": "https://cast.otternet.ca/thumbnail.jpg"
+               "text": "More infos about our cause: https://mitglieder.ffmuc.net Support us at https://spende.ffmuc.net",
+               "image": "https://silo.ffmuc.net/thumbnail.jpg"
             }
          },
-         "image": "https://cast.otternet.ca/logo",
-         "action": "video:https://cast.otternet.ca/hls/0/stream.m3u8"
+         "image": "https://silo.ffmuc.net/logo",
+         "action": "video:https://silo.ffmuc.net/hls/0/stream.m3u8"
       },
       {
          "title": "The Offical Open Source Tonight Owncast",
